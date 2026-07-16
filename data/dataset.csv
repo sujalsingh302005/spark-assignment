@@ -1,0 +1,1051 @@
+user_id,transaction_date,region,product_category,sale_amount,status,city,age,subscription,raw_timestamp,email,username,price,store_id
+U1001,2025-06-13,West,Electronics,1485.69,Inactive,Houston,23,Free,2025-01-27 21:47:00,user1@example.com,user_1,19.75,STORE_2
+U1002,2025-03-01,West,Toys,405.69,,Houston,43,Free,2025-03-13 00:48:00,user2@example.com,user_2,81.96,STORE_3
+U1003,2025-01-27,West,Furniture,202.47,Pending,Denver,31,Premium,2025-07-06 14:34:00,user3@example.com,user_3,150.12,STORE_5
+U1004,2025-04-03,East,Electronics,101.19,Inactive,Phoenix,20,Premium,2025-01-26 12:17:00,user4@example.com,user_4,180.86,STORE_3
+U1005,2025-06-29,West,Toys,1273.61,Inactive,Chicago,44,Basic,2025-03-11 20:44:00,user5@example.com,user_5,389.12,STORE_2
+U1006,2025-01-09,North,Furniture,542.8,Inactive,Denver,60,Basic,2025-02-24 20:31:00,user6@example.com,user_6,136.12,STORE_2
+U1007,2025-07-10,North,Toys,862.58,,Dallas,29,Premium,2025-05-11 15:05:00,user7@example.com,user_7,84.19,STORE_4
+U1008,2025-06-02,West,Furniture,769.42,,Boston,31,Free,2025-01-03 21:46:00,user8@example.com,user_8,385.46,STORE_3
+U1009,2025-01-29,North,Furniture,324.73,Active,Atlanta,61,Basic,2025-05-09 05:32:00,user9@example.com,user_9,321.28,STORE_5
+U1010,2025-02-20,East,Groceries,1527.4,Active,Denver,35,Basic,2025-01-05 03:59:00,user10@example.com,user_10,123.53,STORE_2
+U1011,2025-05-26,West,Electronics,1466.5,Active,Boston,64,Premium,2025-02-02 21:30:00,user11@example.com,user_11,305.26,STORE_2
+U1012,2025-05-19,East,Groceries,803.99,Pending,Seattle,48,Basic,2025-01-31 07:14:00,user12@example.com,,296.28,STORE_1
+U1013,2025-01-19,West,Clothing,144.13,Active,Dallas,19,Free,2025-03-02 08:42:00,user13@example.com,user_13,441.78,STORE_5
+U1014,2025-05-02,East,Furniture,1616.92,Inactive,Los Angeles,21,Free,2025-04-21 11:27:00,user14@example.com,user_14,,STORE_1
+U1015,2025-01-16,South,Groceries,1603.18,Active,Houston,27,Premium,2025-05-18 14:08:00,user15@example.com,user_15,462.02,STORE_4
+U1016,2025-05-21,West,Electronics,1307.77,Active,Los Angeles,63,Premium,2025-02-12 13:31:00,user16@example.com,user_16,86.5,STORE_1
+U1017,2025-04-10,North,Furniture,577.65,,Chicago,27,Basic,2025-02-25 01:37:00,user17@example.com,user_17,29.82,STORE_4
+U1018,2025-05-09,East,Electronics,1921.95,Active,Chicago,19,Free,2025-01-18 21:55:00,user18@example.com,user_18,126.88,STORE_5
+U1019,2025-01-11,West,Furniture,1318.17,Pending,Phoenix,28,Free,2025-07-03 10:15:00,user19@example.com,user_19,231.33,STORE_1
+U1020,2025-01-03,South,Toys,1996.92,Active,Los Angeles,49,Premium,2025-05-10 08:08:00,user20@example.com,user_20,187.92,STORE_2
+U1021,2025-04-23,North,Toys,1967.87,Active,Miami,67,Free,2025-03-18 21:06:00,user21@example.com,user_21,57.98,STORE_5
+U1022,2025-02-09,North,Groceries,1213.61,Pending,Houston,58,Free,2025-03-09 16:31:00,user22@example.com,user_22,,STORE_4
+U1023,2025-03-12,West,Electronics,673.78,Inactive,Miami,31,Premium,2025-07-09 14:35:00,user23@example.com,user_23,472.8,STORE_2
+U1024,2025-05-20,West,Groceries,1169.19,Inactive,Austin,23,Premium,2025-03-20 11:57:00,user24@example.com,user_24,,STORE_3
+U1025,2025-02-23,East,Electronics,713.82,,Denver,62,Premium,2025-03-02 05:51:00,user25@example.com,user_25,,STORE_3
+U1026,2025-07-20,South,Clothing,540.94,Active,Austin,70,Premium,2025-05-01 07:12:00,user26@example.com,user_26,398.7,STORE_2
+U1027,2025-02-27,West,Clothing,802.95,Pending,Los Angeles,64,Basic,2025-03-31 20:32:00,user27@example.com,user_27,469.92,STORE_1
+U1028,2025-03-08,East,Toys,1925.44,Pending,New York,21,Free,2025-04-22 11:46:00,user28@example.com,user_28,62.24,STORE_5
+U1029,2025-02-18,North,Electronics,1420.48,Active,Boston,66,Free,2025-06-25 23:47:00,user29@example.com,user_29,474.69,STORE_3
+U1030,2025-06-09,North,Electronics,1442.31,Pending,Boston,34,Free,2025-04-15 10:25:00,user30@example.com,user_30,334.14,STORE_4
+U1031,2025-06-23,East,Toys,1142.52,,Boston,68,Premium,2025-03-19 09:13:00,user31@example.com,user_31,235.17,STORE_4
+U1032,2025-06-22,East,Toys,951.64,Inactive,Miami,20,Basic,2025-05-12 21:40:00,user32@example.com,user_32,121.26,STORE_3
+U1033,2025-02-27,East,Clothing,58.61,Inactive,Seattle,54,Premium,2025-04-27 13:56:00,user33@example.com,user_33,249.72,STORE_2
+U1034,2025-02-07,West,Electronics,1559.06,Inactive,Chicago,66,Free,2025-05-13 14:03:00,user34@example.com,user_34,71.0,STORE_4
+U1035,2025-06-20,North,Furniture,1229.18,,Boston,43,Premium,2025-07-10 15:28:00,user35@example.com,user_35,384.08,STORE_5
+U1036,2025-05-05,East,Groceries,885.35,Pending,Houston,32,Basic,2025-03-23 17:05:00,user36@example.com,user_36,354.68,STORE_1
+U1037,2025-04-17,South,Groceries,1089.8,,New York,28,Basic,2025-04-10 18:44:00,,user_37,241.1,STORE_3
+U1038,2025-03-18,South,Furniture,1081.06,Inactive,Seattle,29,Basic,2025-04-22 15:01:00,user38@example.com,user_38,363.47,STORE_4
+U1039,2025-02-02,West,Furniture,1187.87,Active,Los Angeles,56,Basic,2025-02-04 14:11:00,user39@example.com,user_39,166.79,STORE_4
+U1040,2025-03-13,South,Groceries,1671.47,,New York,62,Free,2025-01-14 11:14:00,user40@example.com,user_40,378.35,STORE_2
+U1041,2025-02-21,West,Toys,313.24,Inactive,Seattle,57,Premium,2025-05-25 06:29:00,user41@example.com,user_41,305.59,STORE_1
+U1042,2025-07-19,East,Groceries,225.12,Active,Phoenix,51,Free,2025-04-07 12:45:00,user42@example.com,user_42,125.21,STORE_3
+U1043,2025-06-25,West,Toys,1567.44,Pending,Boston,42,Free,2025-04-05 02:32:00,user43@example.com,,247.65,STORE_4
+U1044,2025-04-03,South,Clothing,876.62,Pending,Denver,66,Free,2025-07-18 15:29:00,user44@example.com,user_44,426.6,STORE_1
+U1045,2025-03-13,South,Clothing,1503.45,,Dallas,16,Basic,2025-03-25 05:31:00,user45@example.com,user_45,440.76,STORE_3
+U1046,2025-05-23,West,Toys,1896.64,Active,Houston,61,Basic,2025-05-06 17:48:00,user46@example.com,user_46,226.85,STORE_1
+U1047,2025-01-24,North,Clothing,814.76,Inactive,Phoenix,57,Free,2025-04-05 15:35:00,user47@example.com,user_47,168.74,STORE_4
+U1048,2025-03-11,North,Groceries,468.77,Inactive,Dallas,22,Free,2025-05-18 22:11:00,user48@example.com,user_48,296.85,STORE_5
+U1049,2025-06-02,North,Electronics,1666.93,Pending,Houston,38,Premium,2025-03-19 00:45:00,user49@example.com,user_49,278.91,STORE_2
+U1050,2025-06-13,South,Electronics,1746.71,Pending,Seattle,45,Basic,2025-03-29 05:03:00,user50@example.com,user_50,37.35,STORE_4
+U1051,2025-01-19,West,Clothing,306.9,Pending,Los Angeles,30,Premium,2025-05-23 13:38:00,user51@example.com,user_51,193.29,STORE_4
+U1052,2025-03-18,South,Groceries,1141.57,Active,Denver,62,Premium,2025-07-15 06:40:00,user52@example.com,user_52,91.04,STORE_1
+U1053,2025-02-10,West,Furniture,906.5,,Phoenix,17,Premium,2025-03-15 22:18:00,user53@example.com,user_53,462.34,STORE_5
+U1054,2025-06-19,East,Furniture,238.4,Inactive,Miami,24,Basic,2025-02-06 02:03:00,user54@example.com,user_54,286.76,STORE_3
+U1055,2025-04-23,West,Furniture,1380.47,,Phoenix,47,Free,2025-05-07 14:05:00,user55@example.com,user_55,303.84,STORE_1
+U1056,2025-01-24,East,Toys,1178.37,Active,Miami,67,Basic,2025-05-28 01:48:00,user56@example.com,user_56,458.46,STORE_2
+U1057,2025-05-30,South,Furniture,1938.42,,Dallas,41,Basic,2025-03-24 21:06:00,user57@example.com,user_57,147.67,STORE_4
+U1058,2025-07-14,West,Furniture,185.24,Pending,Dallas,22,Basic,2025-05-12 00:42:00,user58@example.com,user_58,,STORE_5
+U1059,2025-04-03,South,Furniture,1522.38,Inactive,Phoenix,50,Premium,2025-03-15 14:56:00,user59@example.com,user_59,306.39,STORE_2
+U1060,2025-07-01,East,Groceries,1106.17,,Los Angeles,29,Premium,2025-04-29 03:41:00,user60@example.com,user_60,256.89,STORE_3
+U1061,2025-04-17,South,Furniture,495.02,Inactive,Austin,27,Free,2025-05-11 23:56:00,user61@example.com,user_61,427.93,STORE_3
+U1062,2025-05-10,North,Electronics,572.85,Pending,Denver,52,Free,2025-05-06 04:28:00,user62@example.com,user_62,274.0,STORE_4
+U1063,2025-03-24,East,Clothing,1147.88,Inactive,Austin,17,Basic,2025-07-10 15:45:00,user63@example.com,user_63,397.23,STORE_2
+U1064,2025-05-07,West,Clothing,1009.56,Pending,Los Angeles,70,Basic,2025-01-26 16:58:00,user64@example.com,user_64,329.12,STORE_2
+U1065,2025-01-20,South,Groceries,683.74,,Miami,20,Basic,2025-06-22 17:24:00,user65@example.com,user_65,246.53,STORE_5
+U1066,2025-01-10,West,Clothing,1266.01,Pending,Houston,62,Premium,2025-04-22 03:48:00,user66@example.com,user_66,348.53,STORE_1
+U1067,2025-01-12,North,Electronics,593.8,Pending,Austin,24,Premium,2025-05-16 13:36:00,user67@example.com,user_67,306.7,STORE_4
+U1068,2025-06-08,East,Furniture,1826.53,Inactive,Houston,44,Free,2025-03-07 14:16:00,user68@example.com,user_68,147.38,STORE_5
+U1069,2025-02-10,West,Furniture,1891.02,Pending,Miami,42,Free,2025-03-06 14:54:00,user69@example.com,user_69,57.79,STORE_4
+U1070,2025-05-27,North,Toys,598.79,Pending,New York,68,Free,2025-04-12 08:00:00,user70@example.com,user_70,29.28,STORE_5
+U1071,2025-07-10,South,Groceries,1553.72,Inactive,Denver,66,Basic,2025-02-26 20:12:00,user71@example.com,user_71,331.29,STORE_2
+U1072,2025-06-10,West,Electronics,624.78,,New York,52,Basic,2025-07-07 04:05:00,user72@example.com,user_72,104.39,STORE_5
+U1073,2025-04-04,North,Clothing,521.37,,Phoenix,62,Basic,2025-01-30 14:04:00,user73@example.com,user_73,363.49,STORE_4
+U1074,2025-05-23,North,Electronics,1583.46,Active,Phoenix,49,Premium,2025-04-27 11:43:00,user74@example.com,user_74,321.08,STORE_3
+U1075,2025-01-28,East,Furniture,59.8,Pending,Denver,29,Free,2025-01-17 20:52:00,user75@example.com,user_75,62.75,STORE_1
+U1076,2025-01-10,North,Furniture,241.08,Inactive,Boston,23,Basic,2025-04-27 11:42:00,user76@example.com,user_76,295.73,STORE_2
+U1077,2025-04-17,West,Furniture,1235.15,Pending,New York,59,Basic,2025-02-25 14:28:00,user77@example.com,user_77,344.41,STORE_5
+U1078,2025-06-15,North,Electronics,802.3,Inactive,Los Angeles,69,Basic,2025-01-24 21:13:00,user78@example.com,user_78,,STORE_3
+U1079,2025-03-04,East,Toys,418.36,Inactive,Denver,28,Premium,2025-03-26 04:50:00,user79@example.com,,76.62,STORE_2
+U1080,2025-05-19,North,Clothing,228.75,Active,Chicago,15,Basic,2025-03-02 18:20:00,,user_80,213.38,STORE_1
+U1081,2025-07-10,West,Furniture,902.07,Pending,Boston,52,Premium,2025-04-26 16:14:00,user81@example.com,,434.16,STORE_5
+U1082,2025-03-19,South,Electronics,131.04,,Austin,42,Free,2025-01-28 15:45:00,user82@example.com,user_82,306.11,STORE_1
+U1083,2025-02-02,North,Toys,1269.82,Pending,Austin,53,Free,2025-03-17 14:32:00,user83@example.com,user_83,427.13,STORE_5
+U1084,2025-07-04,East,Furniture,908.59,Inactive,Austin,36,Basic,2025-04-13 13:46:00,user84@example.com,user_84,190.28,STORE_2
+U1085,2025-06-25,South,Electronics,191.54,Active,Los Angeles,42,Premium,2025-07-10 23:23:00,user85@example.com,user_85,282.99,STORE_3
+U1086,2025-06-21,West,Furniture,713.66,,Atlanta,18,Basic,2025-06-03 09:22:00,user86@example.com,user_86,243.68,STORE_1
+U1087,2025-03-31,North,Electronics,1527.59,Inactive,Austin,69,Free,2025-07-16 19:39:00,user87@example.com,user_87,330.63,STORE_3
+U1088,2025-01-08,East,Groceries,1408.37,Pending,Dallas,37,Premium,2025-02-16 04:36:00,user88@example.com,user_88,486.05,STORE_1
+U1089,2025-07-11,East,Furniture,845.47,Pending,Chicago,38,Basic,2025-07-04 10:49:00,user89@example.com,user_89,82.01,STORE_5
+U1090,2025-01-13,West,Groceries,891.79,,Seattle,53,Basic,2025-04-17 08:13:00,user90@example.com,user_90,145.21,STORE_5
+U1091,2025-05-05,North,Electronics,448.83,Active,New York,28,Basic,2025-02-24 04:48:00,user91@example.com,user_91,,STORE_4
+U1092,2025-02-14,East,Furniture,1069.84,Inactive,Boston,50,Free,2025-04-01 02:25:00,user92@example.com,,,STORE_1
+U1093,2025-03-22,South,Toys,814.8,,Phoenix,22,Basic,2025-01-06 10:10:00,user93@example.com,user_93,460.29,STORE_1
+U1094,2025-04-22,West,Clothing,877.0,,Boston,20,Basic,2025-03-21 23:21:00,user94@example.com,user_94,318.45,STORE_5
+U1095,2025-05-11,East,Groceries,708.69,Inactive,Houston,21,Premium,2025-03-07 06:11:00,user95@example.com,user_95,92.69,STORE_4
+U1096,2025-04-29,South,Toys,1289.55,Pending,Miami,35,Premium,2025-04-23 02:30:00,user96@example.com,user_96,32.81,STORE_5
+U1097,2025-01-19,North,Furniture,909.31,Active,Dallas,68,Basic,2025-01-20 20:55:00,user97@example.com,user_97,195.32,STORE_5
+U1098,2025-05-22,West,Furniture,1819.01,Inactive,Dallas,53,Basic,2025-05-09 04:03:00,user98@example.com,user_98,491.28,STORE_1
+U1099,2025-05-10,East,Electronics,503.01,,Seattle,48,Free,2025-06-06 05:23:00,user99@example.com,user_99,172.49,STORE_5
+U1100,2025-01-14,North,Electronics,666.08,,Phoenix,31,Free,2025-06-18 19:55:00,user100@example.com,user_100,458.79,STORE_3
+U1101,2025-06-17,South,Clothing,1194.13,Active,Phoenix,50,Basic,2025-06-14 10:52:00,user101@example.com,user_101,498.6,STORE_5
+U1102,2025-01-24,South,Toys,730.04,Pending,Phoenix,26,Premium,2025-03-29 15:12:00,user102@example.com,user_102,422.99,STORE_1
+U1103,2025-05-10,West,Groceries,1754.02,Inactive,Denver,39,Premium,2025-02-11 05:53:00,user103@example.com,user_103,361.99,STORE_1
+U1104,2025-04-16,North,Clothing,1939.48,Pending,Atlanta,65,Basic,2025-03-01 17:15:00,user104@example.com,user_104,418.38,STORE_3
+U1105,2025-06-23,South,Furniture,1541.18,,Boston,48,Basic,2025-02-11 06:51:00,user105@example.com,user_105,,STORE_4
+U1106,2025-04-06,West,Toys,1703.82,Pending,Los Angeles,63,Premium,2025-03-11 14:57:00,user106@example.com,user_106,455.7,STORE_4
+U1107,2025-03-31,West,Furniture,115.98,Pending,Houston,39,Premium,2025-04-06 07:01:00,user107@example.com,user_107,170.97,STORE_2
+U1108,2025-02-05,West,Groceries,1835.62,,Atlanta,68,Premium,2025-07-14 22:30:00,user108@example.com,,131.68,STORE_2
+U1109,2025-05-21,South,Electronics,1554.58,Inactive,Phoenix,22,Premium,2025-03-03 13:40:00,user109@example.com,user_109,453.05,STORE_5
+U1110,2025-05-18,West,Toys,1154.34,Inactive,Phoenix,42,Premium,2025-06-07 11:15:00,user110@example.com,user_110,264.12,STORE_3
+U1111,2025-01-18,West,Furniture,1747.93,Active,Miami,39,Basic,2025-03-06 23:01:00,user111@example.com,user_111,330.27,STORE_1
+U1112,2025-07-17,North,Clothing,98.23,Pending,Miami,26,Free,2025-04-29 22:30:00,user112@example.com,user_112,,STORE_4
+U1113,2025-01-10,North,Clothing,97.17,Inactive,New York,35,Basic,2025-05-12 12:52:00,user113@example.com,user_113,99.6,STORE_3
+U1114,2025-07-19,West,Groceries,553.7,Pending,Austin,40,Free,2025-04-23 12:21:00,user114@example.com,user_114,462.53,STORE_5
+U1115,2025-03-10,West,Furniture,167.06,Inactive,Boston,33,Basic,2025-01-27 02:20:00,user115@example.com,user_115,215.93,STORE_4
+U1116,2025-03-31,South,Electronics,1456.36,Pending,Denver,42,Basic,2025-06-13 01:04:00,user116@example.com,user_116,376.2,STORE_2
+U1117,2025-01-08,East,Toys,1359.4,,New York,23,Premium,2025-03-02 20:23:00,user117@example.com,user_117,,STORE_2
+U1118,2025-06-23,South,Groceries,750.31,Active,Denver,23,Free,2025-04-04 12:20:00,user118@example.com,user_118,369.16,STORE_4
+U1119,2025-05-13,South,Toys,244.34,Pending,Atlanta,43,Premium,2025-06-06 09:44:00,user119@example.com,user_119,427.15,STORE_4
+U1120,2025-02-14,South,Electronics,1622.92,Pending,Miami,37,Free,2025-01-17 17:34:00,user120@example.com,user_120,356.23,STORE_2
+U1121,2025-04-03,East,Electronics,1970.41,Inactive,Houston,65,Basic,2025-01-07 11:35:00,user121@example.com,user_121,69.24,STORE_1
+U1122,2025-01-17,North,Furniture,1999.19,,Boston,41,Basic,2025-05-28 02:08:00,user122@example.com,user_122,341.65,STORE_3
+U1123,2025-02-02,East,Clothing,870.91,Active,Los Angeles,48,Premium,2025-03-19 05:10:00,user123@example.com,user_123,470.75,STORE_3
+U1124,2025-01-21,North,Clothing,1273.76,Pending,Chicago,55,Basic,2025-06-07 17:05:00,user124@example.com,user_124,81.33,STORE_5
+U1125,2025-07-04,North,Toys,91.98,Active,Los Angeles,17,Free,2025-07-17 18:16:00,user125@example.com,user_125,321.3,STORE_4
+U1126,2025-06-10,North,Groceries,971.06,,Phoenix,44,Premium,2025-06-26 01:10:00,user126@example.com,user_126,305.3,STORE_3
+U1127,2025-07-03,North,Groceries,1950.99,Inactive,Dallas,47,Free,2025-01-28 10:15:00,user127@example.com,user_127,52.92,STORE_3
+U1128,2025-04-09,South,Clothing,1925.74,Inactive,Dallas,51,Free,2025-03-22 06:48:00,user128@example.com,user_128,440.14,STORE_4
+U1129,2025-01-06,West,Furniture,1015.83,Inactive,Houston,52,Basic,2025-01-13 01:18:00,user129@example.com,user_129,237.94,STORE_5
+U1130,2025-01-03,West,Furniture,276.53,Pending,Atlanta,38,Basic,2025-04-04 01:25:00,user130@example.com,user_130,147.86,STORE_4
+U1131,2025-05-10,South,Toys,566.64,Active,Chicago,21,Basic,2025-04-06 10:35:00,user131@example.com,user_131,257.02,STORE_5
+U1132,2025-01-11,West,Electronics,282.7,Pending,Seattle,48,Basic,2025-02-08 19:57:00,user132@example.com,user_132,85.44,STORE_5
+U1133,2025-07-09,North,Toys,679.38,,Atlanta,51,Basic,2025-05-02 00:23:00,user133@example.com,user_133,157.3,STORE_1
+U1134,2025-06-02,South,Groceries,1934.47,Inactive,Atlanta,18,Free,2025-05-03 05:33:00,user134@example.com,user_134,78.15,STORE_2
+U1135,2025-01-09,West,Clothing,47.69,Pending,Austin,24,Basic,2025-06-26 06:26:00,user135@example.com,user_135,424.95,STORE_1
+U1136,2025-06-30,East,Toys,422.61,Pending,Miami,45,Free,2025-04-07 10:11:00,user136@example.com,user_136,339.55,STORE_3
+U1137,2025-06-06,South,Clothing,1915.1,Pending,Boston,34,Premium,2025-03-18 09:45:00,user137@example.com,user_137,177.66,STORE_3
+U1138,2025-03-15,West,Toys,1356.48,,Austin,67,Basic,2025-07-17 04:18:00,,user_138,462.38,STORE_3
+U1139,2025-07-11,South,Clothing,412.12,Pending,Boston,59,Basic,2025-02-05 03:39:00,user139@example.com,user_139,,STORE_5
+U1140,2025-02-27,East,Electronics,209.39,Pending,Atlanta,45,Premium,2025-06-24 04:00:00,user140@example.com,user_140,328.18,STORE_4
+U1141,2025-05-03,East,Groceries,649.12,Active,Los Angeles,56,Free,2025-03-01 17:47:00,user141@example.com,user_141,91.66,STORE_2
+U1142,2025-01-10,South,Furniture,380.76,Pending,New York,15,Basic,2025-05-26 19:06:00,user142@example.com,user_142,322.45,STORE_5
+U1143,2025-05-07,East,Toys,941.36,Inactive,Los Angeles,36,Premium,2025-07-07 14:41:00,user143@example.com,user_143,396.43,STORE_5
+U1144,2025-06-22,East,Clothing,1225.8,,Austin,47,Basic,2025-01-23 12:42:00,user144@example.com,user_144,468.23,STORE_1
+U1145,2025-03-08,South,Clothing,899.0,Pending,Dallas,34,Free,2025-07-05 18:00:00,user145@example.com,user_145,335.55,STORE_4
+U1146,2025-03-20,East,Furniture,1375.29,Pending,Atlanta,22,Free,2025-03-17 11:39:00,user146@example.com,user_146,230.21,STORE_5
+U1147,2025-04-06,South,Toys,1826.47,Inactive,Houston,58,Free,2025-01-21 16:28:00,user147@example.com,user_147,60.54,STORE_5
+U1148,2025-05-10,East,Toys,1077.95,Inactive,Dallas,69,Free,2025-04-24 03:43:00,user148@example.com,user_148,257.64,STORE_1
+U1149,2025-04-27,East,Toys,836.69,Active,Boston,44,Free,2025-03-20 23:01:00,user149@example.com,user_149,291.26,STORE_1
+U1150,2025-04-19,North,Electronics,1086.92,Active,Los Angeles,45,Premium,2025-03-15 13:11:00,user150@example.com,user_150,324.71,STORE_4
+U1151,2025-04-06,South,Furniture,1740.54,,Austin,20,Free,2025-06-19 17:08:00,user151@example.com,user_151,270.94,STORE_5
+U1152,2025-02-02,East,Electronics,1514.8,Pending,Seattle,58,Free,2025-05-20 13:34:00,user152@example.com,user_152,81.79,STORE_2
+U1153,2025-07-05,West,Electronics,1620.86,,Denver,64,Premium,2025-03-03 06:04:00,user153@example.com,,353.13,STORE_1
+U1154,2025-03-04,West,Furniture,883.54,Inactive,New York,23,Free,2025-03-16 07:52:00,user154@example.com,user_154,387.41,STORE_3
+U1155,2025-03-02,North,Clothing,1971.53,Inactive,Austin,34,Basic,2025-01-16 17:37:00,user155@example.com,user_155,216.46,STORE_4
+U1156,2025-01-13,North,Furniture,1573.75,Pending,Atlanta,41,Basic,2025-02-08 09:24:00,user156@example.com,user_156,116.55,STORE_2
+U1157,2025-04-29,West,Toys,831.23,,Boston,48,Premium,2025-04-10 07:16:00,user157@example.com,user_157,424.33,STORE_1
+U1158,2025-05-18,East,Electronics,544.24,Active,Los Angeles,27,Free,2025-07-05 21:35:00,user158@example.com,user_158,155.08,STORE_1
+U1159,2025-02-24,East,Electronics,1496.29,,Houston,59,Free,2025-06-30 06:25:00,user159@example.com,user_159,193.43,STORE_5
+U1160,2025-06-16,North,Groceries,530.51,,Seattle,21,Free,2025-05-01 10:58:00,user160@example.com,user_160,,STORE_2
+U1161,2025-07-09,East,Electronics,528.94,,Phoenix,24,Premium,2025-03-26 07:24:00,user161@example.com,user_161,472.01,STORE_3
+U1162,2025-03-07,South,Furniture,927.05,Pending,Chicago,23,Free,2025-05-20 15:11:00,user162@example.com,user_162,34.07,STORE_1
+U1163,2025-01-20,West,Electronics,830.66,Inactive,Los Angeles,60,Premium,2025-01-03 06:32:00,user163@example.com,user_163,467.28,STORE_4
+U1164,2025-06-18,South,Electronics,23.16,,New York,16,Free,2025-07-04 08:34:00,user164@example.com,,338.65,STORE_2
+U1165,2025-01-28,West,Toys,306.31,Inactive,Denver,48,Basic,2025-04-01 08:50:00,user165@example.com,user_165,284.68,STORE_2
+U1166,2025-03-18,West,Electronics,196.07,,Austin,50,Basic,2025-01-15 20:00:00,user166@example.com,user_166,324.23,STORE_3
+U1167,2025-05-25,West,Toys,1839.11,Inactive,Houston,70,Free,2025-05-26 15:17:00,,user_167,450.16,STORE_5
+U1168,2025-06-18,West,Clothing,1858.25,Pending,New York,28,Free,2025-02-06 22:52:00,user168@example.com,user_168,124.03,STORE_4
+U1169,2025-06-23,North,Furniture,1513.66,Inactive,Atlanta,61,Premium,2025-05-09 23:22:00,user169@example.com,user_169,173.59,STORE_5
+U1170,2025-06-02,South,Groceries,68.96,Pending,Seattle,46,Premium,2025-04-02 17:24:00,user170@example.com,user_170,47.42,STORE_5
+U1171,2025-03-17,East,Electronics,173.26,Inactive,Austin,60,Free,2025-02-09 23:24:00,user171@example.com,user_171,,STORE_3
+U1172,2025-04-24,North,Groceries,213.44,Active,Chicago,42,Basic,2025-05-23 17:32:00,user172@example.com,,51.07,STORE_5
+U1173,2025-07-20,North,Furniture,34.56,,Austin,64,Premium,2025-07-05 17:57:00,user173@example.com,user_173,344.23,STORE_2
+U1174,2025-02-05,North,Groceries,544.13,Inactive,Los Angeles,25,Basic,2025-03-12 13:19:00,user174@example.com,user_174,127.06,STORE_4
+U1175,2025-06-02,East,Furniture,222.88,Pending,New York,40,Basic,2025-06-08 12:51:00,user175@example.com,user_175,412.65,STORE_5
+U1176,2025-02-04,North,Groceries,1210.39,Inactive,Seattle,35,Premium,2025-04-12 10:18:00,user176@example.com,user_176,392.08,STORE_3
+U1177,2025-04-07,North,Furniture,736.38,Inactive,Denver,49,Premium,2025-06-24 17:01:00,user177@example.com,user_177,222.04,STORE_3
+U1178,2025-06-27,West,Furniture,1349.23,Inactive,Miami,34,Premium,2025-03-06 21:09:00,user178@example.com,user_178,495.4,STORE_4
+U1179,2025-05-30,South,Toys,1018.16,,Boston,17,Basic,2025-06-29 17:38:00,user179@example.com,user_179,330.51,STORE_3
+U1180,2025-02-12,West,Toys,1967.38,,Dallas,65,Basic,2025-01-28 00:06:00,user180@example.com,user_180,292.36,STORE_5
+U1181,2025-02-26,South,Groceries,788.36,Inactive,Dallas,16,Basic,2025-01-27 09:26:00,user181@example.com,user_181,366.42,STORE_3
+U1182,2025-03-21,North,Furniture,1570.7,,Dallas,45,Premium,2025-04-23 23:44:00,user182@example.com,user_182,,STORE_1
+U1183,2025-01-06,North,Electronics,1357.51,Inactive,Atlanta,30,Free,2025-02-14 17:10:00,user183@example.com,user_183,399.89,STORE_2
+U1184,2025-02-17,South,Furniture,68.09,Inactive,Seattle,52,Basic,2025-04-10 00:45:00,user184@example.com,user_184,399.02,STORE_5
+U1185,2025-01-27,East,Groceries,658.71,,Los Angeles,31,Free,2025-05-06 16:40:00,user185@example.com,user_185,61.54,STORE_3
+U1186,2025-04-28,East,Groceries,1838.18,Active,Miami,23,Basic,2025-01-31 07:19:00,user186@example.com,user_186,197.29,STORE_5
+U1187,2025-02-05,South,Furniture,379.65,Inactive,Boston,25,Basic,2025-03-15 04:11:00,user187@example.com,user_187,,STORE_3
+U1188,2025-01-03,South,Clothing,398.31,,Boston,47,Free,2025-05-07 13:43:00,user188@example.com,user_188,87.79,STORE_5
+U1189,2025-01-08,East,Groceries,75.06,Inactive,Boston,33,Premium,2025-07-19 14:36:00,user189@example.com,user_189,61.04,STORE_1
+U1190,2025-03-10,North,Toys,1647.0,Active,Atlanta,43,Free,2025-02-25 13:06:00,user190@example.com,user_190,438.03,STORE_1
+U1191,2025-04-26,North,Groceries,1725.78,Active,Seattle,70,Premium,2025-07-18 07:13:00,user191@example.com,user_191,356.82,STORE_4
+U1192,2025-02-12,East,Clothing,1628.92,Active,Denver,37,Free,2025-03-13 19:34:00,user192@example.com,user_192,288.5,STORE_5
+U1193,2025-06-23,West,Clothing,1925.92,,New York,32,Free,2025-02-02 22:55:00,user193@example.com,user_193,127.54,STORE_4
+U1194,2025-05-06,East,Toys,1268.48,,Austin,43,Premium,2025-06-12 02:25:00,user194@example.com,user_194,187.69,STORE_4
+U1195,2025-03-25,West,Electronics,1464.55,,Miami,57,Free,2025-04-02 02:50:00,user195@example.com,user_195,109.87,STORE_3
+U1196,2025-03-24,North,Groceries,1099.15,Inactive,Denver,69,Basic,2025-03-29 21:48:00,,user_196,232.49,STORE_1
+U1197,2025-02-10,South,Furniture,11.35,,Houston,59,Premium,2025-06-16 09:10:00,user197@example.com,user_197,183.42,STORE_1
+U1198,2025-04-06,East,Electronics,798.72,Pending,Atlanta,59,Premium,2025-04-20 20:05:00,user198@example.com,,70.69,STORE_2
+U1199,2025-05-13,South,Electronics,26.04,Pending,Los Angeles,70,Basic,2025-06-27 04:30:00,user199@example.com,user_199,55.7,STORE_3
+U1200,2025-04-05,North,Clothing,771.61,Inactive,Miami,58,Premium,2025-01-18 16:36:00,,user_200,362.6,STORE_2
+U1201,2025-04-16,South,Clothing,182.51,Active,Chicago,63,Premium,2025-05-31 23:24:00,user201@example.com,user_201,127.65,STORE_1
+U1202,2025-03-05,North,Electronics,1697.31,Pending,Houston,48,Free,2025-05-11 06:47:00,user202@example.com,user_202,397.92,STORE_2
+U1203,2025-05-07,South,Electronics,489.75,Active,Boston,15,Basic,2025-03-23 04:24:00,user203@example.com,user_203,343.06,STORE_4
+U1204,2025-07-17,West,Electronics,1178.85,Active,Phoenix,28,Premium,2025-01-16 12:32:00,user204@example.com,user_204,214.67,STORE_4
+U1205,2025-01-22,East,Groceries,176.36,Active,Boston,28,Premium,2025-05-18 10:25:00,user205@example.com,user_205,323.36,STORE_3
+U1206,2025-06-28,South,Clothing,125.23,Active,Austin,22,Basic,2025-06-06 19:03:00,user206@example.com,user_206,64.12,STORE_2
+U1207,2025-06-29,West,Clothing,997.86,Pending,Boston,48,Free,2025-03-08 05:23:00,user207@example.com,user_207,443.78,STORE_1
+U1208,2025-03-27,South,Groceries,1052.47,Pending,Atlanta,51,Free,2025-01-20 15:29:00,user208@example.com,user_208,87.61,STORE_2
+U1209,2025-03-07,West,Toys,1351.5,Active,Houston,62,Free,2025-01-01 01:54:00,user209@example.com,user_209,194.57,STORE_2
+U1210,2025-02-15,West,Toys,1608.2,,Houston,35,Premium,2025-04-17 23:20:00,user210@example.com,user_210,253.51,STORE_1
+U1211,2025-02-15,East,Toys,1963.01,,Los Angeles,44,Basic,2025-07-18 09:20:00,user211@example.com,user_211,149.34,STORE_3
+U1212,2025-07-09,East,Furniture,742.86,,Houston,61,Free,2025-07-14 07:09:00,,user_212,176.48,STORE_1
+U1213,2025-03-27,West,Furniture,1699.52,Pending,Los Angeles,28,Free,2025-03-02 13:31:00,user213@example.com,user_213,143.51,STORE_1
+U1214,2025-03-01,South,Groceries,922.33,Active,Denver,21,Free,2025-02-04 20:52:00,user214@example.com,user_214,,STORE_2
+U1215,2025-03-02,North,Groceries,1703.32,,Atlanta,68,Free,2025-03-25 10:28:00,user215@example.com,user_215,391.07,STORE_5
+U1216,2025-01-28,East,Electronics,337.11,,Dallas,41,Premium,2025-05-18 11:49:00,user216@example.com,user_216,64.36,STORE_2
+U1217,2025-06-25,North,Toys,90.26,Pending,Chicago,20,Free,2025-03-05 11:25:00,user217@example.com,user_217,495.38,STORE_1
+U1218,2025-04-14,South,Toys,1498.68,Inactive,Los Angeles,44,Premium,2025-02-05 03:00:00,user218@example.com,user_218,103.08,STORE_4
+U1219,2025-04-06,West,Toys,1176.38,Active,New York,19,Premium,2025-06-15 14:51:00,user219@example.com,user_219,169.12,STORE_1
+U1220,2025-04-29,West,Clothing,1849.02,,Atlanta,40,Basic,2025-01-08 12:43:00,user220@example.com,user_220,141.12,STORE_4
+U1221,2025-02-08,West,Toys,1242.16,Inactive,Miami,33,Basic,2025-04-16 17:30:00,user221@example.com,user_221,103.73,STORE_5
+U1222,2025-03-05,West,Furniture,1566.01,Pending,Seattle,49,Basic,2025-03-30 18:32:00,user222@example.com,user_222,,STORE_5
+U1223,2025-02-26,West,Groceries,126.6,,Boston,37,Free,2025-03-01 05:06:00,user223@example.com,user_223,396.66,STORE_1
+U1224,2025-07-15,East,Toys,1694.55,,Dallas,68,Premium,2025-02-15 07:37:00,user224@example.com,user_224,297.82,STORE_3
+U1225,2025-05-26,East,Toys,1897.25,,Boston,34,Premium,2025-05-06 01:05:00,user225@example.com,user_225,,STORE_4
+U1226,2025-01-01,North,Toys,410.91,Inactive,Dallas,60,Premium,2025-03-24 01:01:00,user226@example.com,user_226,59.91,STORE_5
+U1227,2025-04-04,West,Groceries,1412.03,,Denver,21,Basic,2025-03-19 10:08:00,user227@example.com,user_227,321.44,STORE_4
+U1228,2025-06-16,North,Clothing,1417.29,Pending,Houston,57,Free,2025-02-14 12:19:00,user228@example.com,user_228,5.89,STORE_5
+U1229,2025-04-11,West,Clothing,1208.75,Inactive,Miami,51,Premium,2025-05-08 04:21:00,user229@example.com,user_229,88.1,STORE_1
+U1230,2025-07-01,North,Furniture,32.68,Inactive,Houston,59,Premium,2025-03-31 08:50:00,user230@example.com,,367.63,STORE_2
+U1231,2025-04-16,South,Furniture,708.95,,Los Angeles,68,Basic,2025-05-28 20:48:00,user231@example.com,user_231,423.65,STORE_3
+U1232,2025-01-06,North,Groceries,1903.81,Active,Dallas,25,Basic,2025-02-11 23:04:00,user232@example.com,user_232,299.05,STORE_5
+U1233,2025-05-04,West,Furniture,1885.46,Inactive,Denver,42,Premium,2025-01-14 03:21:00,user233@example.com,user_233,362.41,STORE_5
+U1234,2025-03-09,North,Groceries,482.72,Active,Austin,51,Free,2025-05-06 04:03:00,user234@example.com,user_234,332.7,STORE_5
+U1235,2025-05-03,East,Electronics,61.21,Inactive,Miami,33,Premium,2025-05-02 03:19:00,user235@example.com,user_235,136.18,STORE_5
+U1236,2025-04-10,East,Groceries,1772.13,Pending,Chicago,43,Premium,2025-03-09 14:29:00,user236@example.com,user_236,79.81,STORE_1
+U1237,2025-01-22,North,Toys,833.83,Inactive,Boston,18,Basic,2025-05-14 13:34:00,user237@example.com,user_237,121.64,STORE_3
+U1238,2025-01-21,South,Electronics,1009.18,Inactive,Los Angeles,63,Basic,2025-02-14 05:13:00,user238@example.com,user_238,494.2,STORE_4
+U1239,2025-02-21,East,Toys,523.19,Active,Los Angeles,39,Free,2025-04-12 17:20:00,user239@example.com,user_239,11.12,STORE_5
+U1240,2025-05-31,South,Electronics,834.74,Inactive,Denver,52,Free,2025-07-14 03:59:00,user240@example.com,user_240,434.4,STORE_3
+U1241,2025-04-16,North,Furniture,1313.03,,New York,26,Basic,2025-04-14 04:39:00,user241@example.com,user_241,,STORE_3
+U1242,2025-06-26,East,Electronics,1494.04,Pending,Dallas,16,Basic,2025-03-19 09:17:00,user242@example.com,user_242,486.39,STORE_2
+U1243,2025-02-04,North,Furniture,1550.32,Pending,Phoenix,61,Basic,2025-06-04 20:05:00,user243@example.com,user_243,371.77,STORE_5
+U1244,2025-04-06,West,Toys,1585.07,Active,Phoenix,60,Free,2025-04-14 04:49:00,user244@example.com,user_244,,STORE_2
+U1245,2025-02-21,West,Clothing,75.81,Active,Dallas,60,Premium,2025-03-12 11:52:00,user245@example.com,user_245,342.18,STORE_2
+U1246,2025-04-06,South,Toys,897.75,,Denver,50,Basic,2025-03-30 05:53:00,user246@example.com,user_246,146.11,STORE_4
+U1247,2025-01-13,East,Toys,1561.86,Inactive,Houston,56,Premium,2025-06-23 06:17:00,user247@example.com,user_247,483.73,STORE_1
+U1248,2025-05-02,East,Clothing,1206.27,Active,Houston,31,Free,2025-03-20 22:45:00,user248@example.com,user_248,177.61,STORE_3
+U1249,2025-02-25,South,Groceries,1357.62,,Denver,21,Premium,2025-05-11 21:53:00,user249@example.com,user_249,144.93,STORE_1
+U1250,2025-05-04,West,Groceries,1976.84,Pending,Phoenix,31,Free,2025-07-02 20:19:00,user250@example.com,user_250,33.1,STORE_5
+U1251,2025-04-14,North,Clothing,1445.35,,Phoenix,31,Basic,2025-04-14 12:47:00,,user_251,99.01,STORE_2
+U1252,2025-06-25,South,Groceries,1019.56,Inactive,Miami,50,Premium,2025-03-17 03:30:00,user252@example.com,user_252,382.64,STORE_2
+U1253,2025-06-24,North,Electronics,452.28,Inactive,Atlanta,70,Basic,2025-04-18 10:23:00,user253@example.com,user_253,237.92,STORE_5
+U1254,2025-05-29,West,Furniture,1779.96,Active,Miami,39,Free,2025-03-18 13:03:00,user254@example.com,user_254,174.62,STORE_5
+U1255,2025-04-28,East,Groceries,1726.16,Inactive,Los Angeles,46,Basic,2025-06-11 05:20:00,user255@example.com,,381.79,STORE_2
+U1256,2025-05-28,East,Furniture,1572.57,Active,Chicago,54,Basic,2025-06-12 13:25:00,user256@example.com,user_256,,STORE_5
+U1257,2025-02-21,North,Electronics,1785.09,Inactive,New York,58,Premium,2025-06-10 23:15:00,user257@example.com,user_257,55.84,STORE_5
+U1258,2025-05-31,North,Clothing,139.92,Active,Phoenix,33,Basic,2025-07-06 16:38:00,user258@example.com,user_258,71.23,STORE_4
+U1259,2025-04-02,East,Clothing,1896.69,,New York,29,Premium,2025-07-06 04:13:00,user259@example.com,user_259,186.46,STORE_1
+U1260,2025-04-07,North,Toys,1250.04,Active,Miami,21,Free,2025-01-06 01:44:00,user260@example.com,user_260,130.11,STORE_2
+U1261,2025-02-22,West,Groceries,847.53,Active,Miami,48,Basic,2025-06-09 19:44:00,user261@example.com,user_261,360.79,STORE_1
+U1262,2025-03-14,West,Electronics,1000.5,Inactive,Phoenix,68,Free,2025-02-21 11:45:00,user262@example.com,user_262,455.63,STORE_4
+U1263,2025-03-26,East,Electronics,35.37,Active,Los Angeles,68,Free,2025-06-21 15:09:00,user263@example.com,user_263,363.17,STORE_3
+U1264,2025-06-14,East,Furniture,1977.45,Pending,Phoenix,44,Premium,2025-01-26 05:55:00,,user_264,159.79,STORE_1
+U1265,2025-01-25,West,Electronics,1705.48,Inactive,Dallas,37,Basic,2025-06-09 08:56:00,user265@example.com,user_265,61.35,STORE_4
+U1266,2025-04-27,North,Furniture,1382.91,,Austin,56,Premium,2025-01-29 04:44:00,user266@example.com,user_266,56.34,STORE_5
+U1267,2025-05-04,South,Clothing,1226.53,Pending,Denver,16,Free,2025-07-06 04:30:00,user267@example.com,user_267,27.76,STORE_3
+U1268,2025-06-17,North,Electronics,1412.09,Inactive,Miami,70,Basic,2025-05-13 16:44:00,user268@example.com,user_268,128.05,STORE_3
+U1269,2025-06-19,South,Clothing,1679.68,Active,New York,56,Premium,2025-05-10 15:54:00,user269@example.com,user_269,163.71,STORE_3
+U1270,2025-03-13,West,Toys,453.19,,Austin,67,Premium,2025-01-21 14:28:00,user270@example.com,user_270,226.3,STORE_1
+U1271,2025-05-08,West,Electronics,812.84,Active,Boston,50,Premium,2025-01-24 19:39:00,user271@example.com,user_271,329.03,STORE_4
+U1272,2025-03-29,North,Electronics,1635.01,,Dallas,50,Free,2025-06-03 15:45:00,user272@example.com,user_272,380.86,STORE_2
+U1273,2025-01-01,North,Groceries,1661.47,Pending,Boston,48,Basic,2025-06-29 03:02:00,user273@example.com,user_273,372.54,STORE_4
+U1274,2025-01-28,North,Toys,399.88,Active,Austin,28,Basic,2025-07-20 06:45:00,user274@example.com,user_274,,STORE_5
+U1275,2025-02-01,South,Furniture,1320.33,Inactive,Seattle,15,Free,2025-07-08 01:35:00,user275@example.com,user_275,256.62,STORE_2
+U1276,2025-06-27,East,Clothing,216.07,Pending,Boston,39,Basic,2025-06-05 22:48:00,user276@example.com,user_276,150.62,STORE_2
+U1277,2025-02-05,South,Toys,1403.03,Pending,Atlanta,50,Basic,2025-07-02 23:59:00,user277@example.com,user_277,358.62,STORE_3
+U1278,2025-06-22,East,Clothing,1012.75,Pending,Atlanta,22,Basic,2025-05-24 15:37:00,user278@example.com,user_278,375.2,STORE_5
+U1279,2025-03-15,South,Electronics,1050.23,Active,Austin,24,Premium,2025-06-21 01:12:00,user279@example.com,user_279,343.28,STORE_2
+U1280,2025-01-16,North,Clothing,1509.65,Active,Dallas,67,Basic,2025-01-27 19:55:00,user280@example.com,user_280,325.32,STORE_4
+U1281,2025-03-02,North,Electronics,1853.7,,Austin,65,Free,2025-03-22 17:03:00,,user_281,391.56,STORE_4
+U1282,2025-02-27,North,Toys,1097.76,Inactive,Atlanta,27,Basic,2025-04-25 05:43:00,user282@example.com,user_282,64.08,STORE_1
+U1283,2025-04-20,North,Toys,535.84,Inactive,Denver,69,Basic,2025-01-02 10:29:00,user283@example.com,user_283,164.7,STORE_1
+U1284,2025-07-18,North,Furniture,1581.92,Pending,Los Angeles,65,Free,2025-03-23 16:14:00,user284@example.com,user_284,83.89,STORE_5
+U1285,2025-05-18,South,Electronics,705.31,Inactive,Miami,36,Basic,2025-04-03 09:13:00,user285@example.com,user_285,282.86,STORE_1
+U1286,2025-01-30,North,Furniture,488.29,Inactive,New York,58,Basic,2025-04-08 03:24:00,user286@example.com,user_286,,STORE_5
+U1287,2025-07-17,North,Toys,1607.61,,Seattle,17,Basic,2025-06-16 06:20:00,user287@example.com,user_287,478.36,STORE_5
+U1288,2025-05-17,West,Electronics,429.46,Inactive,Miami,42,Premium,2025-02-22 17:53:00,user288@example.com,user_288,325.05,STORE_1
+U1289,2025-07-11,East,Electronics,923.86,Pending,New York,20,Premium,2025-01-14 05:50:00,user289@example.com,user_289,455.94,STORE_4
+U1290,2025-04-10,South,Furniture,871.72,Active,Austin,58,Premium,2025-05-17 00:41:00,user290@example.com,user_290,27.53,STORE_1
+U1291,2025-04-02,West,Groceries,1575.91,Pending,Denver,20,Basic,2025-07-15 14:24:00,user291@example.com,user_291,269.07,STORE_2
+U1292,2025-07-11,South,Toys,597.01,Inactive,Phoenix,58,Free,2025-06-15 11:00:00,user292@example.com,user_292,7.49,STORE_5
+U1293,2025-04-11,West,Groceries,428.01,Pending,Houston,41,Free,2025-05-12 04:10:00,user293@example.com,user_293,61.74,STORE_5
+U1294,2025-01-14,South,Toys,155.56,Active,Phoenix,21,Premium,2025-07-05 18:31:00,user294@example.com,user_294,121.09,STORE_3
+U1295,2025-06-08,West,Clothing,642.39,,Dallas,54,Free,2025-03-20 22:37:00,user295@example.com,user_295,479.54,STORE_2
+U1296,2025-01-02,North,Clothing,1573.46,,Phoenix,68,Basic,2025-02-04 21:46:00,user296@example.com,user_296,388.51,STORE_4
+U1297,2025-05-22,West,Clothing,1294.65,Active,Phoenix,69,Premium,2025-05-18 06:16:00,user297@example.com,user_297,446.59,STORE_5
+U1298,2025-06-11,West,Toys,1162.01,Inactive,New York,50,Basic,2025-05-20 17:30:00,user298@example.com,user_298,446.26,STORE_5
+U1299,2025-07-07,North,Clothing,934.76,Active,Austin,38,Free,2025-01-03 21:15:00,user299@example.com,user_299,87.09,STORE_5
+U1300,2025-02-05,South,Clothing,366.5,Inactive,Atlanta,61,Basic,2025-04-02 01:14:00,user300@example.com,user_300,120.84,STORE_2
+U1301,2025-05-13,North,Furniture,944.65,,New York,17,Free,2025-03-24 03:45:00,user301@example.com,user_301,372.25,STORE_5
+U1302,2025-05-20,East,Furniture,1310.81,Pending,Denver,56,Premium,2025-05-13 08:24:00,user302@example.com,user_302,409.53,STORE_3
+U1303,2025-05-05,South,Toys,23.13,Inactive,Seattle,25,Premium,2025-01-20 16:41:00,user303@example.com,user_303,303.0,STORE_1
+U1304,2025-06-19,East,Furniture,1624.23,Active,Seattle,58,Basic,2025-05-03 06:37:00,user304@example.com,user_304,,STORE_1
+U1305,2025-02-02,East,Clothing,1262.79,Active,Denver,24,Premium,2025-02-12 08:59:00,user305@example.com,user_305,283.98,STORE_1
+U1306,2025-07-04,North,Electronics,441.02,,Seattle,25,Premium,2025-04-16 19:09:00,user306@example.com,user_306,331.53,STORE_3
+U1307,2025-02-12,North,Furniture,1197.1,Active,Houston,39,Basic,2025-02-03 03:01:00,user307@example.com,user_307,212.8,STORE_2
+U1308,2025-06-05,West,Clothing,956.98,Active,Boston,47,Premium,2025-01-24 15:42:00,user308@example.com,user_308,449.0,STORE_4
+U1309,2025-05-14,South,Groceries,1750.9,,Houston,66,Basic,2025-07-16 12:22:00,user309@example.com,user_309,349.87,STORE_1
+U1310,2025-04-19,East,Groceries,959.51,Inactive,Los Angeles,33,Free,2025-05-20 13:16:00,user310@example.com,user_310,291.1,STORE_1
+U1311,2025-05-14,West,Furniture,1312.55,Pending,Austin,38,Premium,2025-02-09 13:41:00,user311@example.com,user_311,284.51,STORE_5
+U1312,2025-03-12,South,Clothing,832.32,,Chicago,38,Free,2025-05-23 15:16:00,user312@example.com,user_312,202.07,STORE_2
+U1313,2025-06-18,West,Clothing,898.72,Inactive,Los Angeles,28,Free,2025-04-13 10:51:00,user313@example.com,user_313,84.57,STORE_1
+U1314,2025-01-24,East,Furniture,1852.46,,Los Angeles,19,Basic,2025-02-26 11:05:00,user314@example.com,user_314,203.32,STORE_5
+U1315,2025-03-15,West,Clothing,1284.18,,New York,27,Free,2025-05-13 09:12:00,,user_315,119.68,STORE_2
+U1316,2025-06-22,West,Groceries,486.12,Active,Chicago,20,Basic,2025-07-19 12:22:00,user316@example.com,user_316,12.61,STORE_1
+U1317,2025-01-24,North,Toys,1830.87,Pending,Dallas,67,Basic,2025-02-27 19:12:00,user317@example.com,user_317,,STORE_2
+U1318,2025-04-15,West,Toys,154.05,Pending,Dallas,22,Free,2025-03-07 17:52:00,user318@example.com,user_318,191.65,STORE_4
+U1319,2025-07-17,East,Groceries,1922.87,,Miami,44,Free,2025-01-08 15:07:00,user319@example.com,user_319,114.09,STORE_2
+U1320,2025-03-22,South,Groceries,1037.84,Active,Atlanta,68,Basic,2025-03-05 09:05:00,user320@example.com,user_320,279.5,STORE_2
+U1321,2025-05-02,North,Groceries,444.95,Pending,Chicago,62,Free,2025-02-18 15:47:00,user321@example.com,user_321,107.36,STORE_2
+U1322,2025-03-05,North,Clothing,1560.09,Active,Los Angeles,58,Free,2025-05-07 19:00:00,user322@example.com,user_322,,STORE_4
+U1323,2025-04-06,North,Furniture,1797.26,Pending,Seattle,26,Free,2025-03-13 12:14:00,user323@example.com,user_323,214.47,STORE_5
+U1324,2025-01-09,North,Furniture,1722.2,Inactive,Seattle,22,Free,2025-05-13 14:20:00,user324@example.com,,292.6,STORE_3
+U1325,2025-04-03,North,Clothing,1101.64,Inactive,Phoenix,45,Free,2025-03-29 11:11:00,user325@example.com,user_325,189.29,STORE_4
+U1326,2025-03-13,South,Clothing,1147.11,Inactive,Los Angeles,61,Basic,2025-03-02 17:27:00,user326@example.com,user_326,370.58,STORE_4
+U1327,2025-01-03,East,Furniture,1004.2,Pending,Seattle,34,Basic,2025-05-24 18:03:00,user327@example.com,user_327,,STORE_3
+U1328,2025-05-02,West,Furniture,1491.74,Pending,Dallas,38,Free,2025-05-23 08:22:00,,user_328,481.74,STORE_2
+U1329,2025-05-28,East,Groceries,716.67,,Atlanta,43,Premium,2025-04-08 19:18:00,user329@example.com,user_329,322.09,STORE_3
+U1330,2025-04-18,South,Electronics,167.43,Pending,Houston,35,Basic,2025-06-17 09:45:00,user330@example.com,user_330,225.22,STORE_3
+U1331,2025-07-11,South,Furniture,342.96,Active,Chicago,61,Premium,2025-06-19 08:47:00,user331@example.com,user_331,55.99,STORE_1
+U1332,2025-05-02,West,Electronics,1544.16,Active,Los Angeles,31,Free,2025-02-09 02:41:00,user332@example.com,user_332,370.11,STORE_4
+U1333,2025-06-10,East,Clothing,1058.22,Inactive,New York,17,Free,2025-04-02 10:55:00,user333@example.com,user_333,139.85,STORE_4
+U1334,2025-02-04,East,Toys,1199.19,,Boston,55,Free,2025-05-17 09:58:00,user334@example.com,user_334,223.72,STORE_3
+U1335,2025-04-16,North,Clothing,614.11,Active,Boston,67,Premium,2025-03-30 09:30:00,user335@example.com,user_335,378.96,STORE_3
+U1336,2025-01-03,South,Groceries,1198.04,Active,Boston,38,Premium,2025-04-16 17:27:00,user336@example.com,user_336,197.91,STORE_4
+U1337,2025-02-26,North,Electronics,850.26,Inactive,Boston,63,Free,2025-06-27 21:17:00,user337@example.com,user_337,209.39,STORE_1
+U1338,2025-02-16,East,Groceries,229.61,,Denver,43,Basic,2025-06-29 19:31:00,user338@example.com,,,STORE_5
+U1339,2025-01-06,East,Electronics,571.41,Inactive,Atlanta,43,Free,2025-01-03 07:05:00,user339@example.com,user_339,159.23,STORE_4
+U1340,2025-04-06,South,Electronics,667.19,Inactive,New York,32,Basic,2025-01-19 17:30:00,user340@example.com,user_340,193.88,STORE_1
+U1341,2025-02-01,East,Furniture,1544.74,,Houston,62,Premium,2025-02-20 14:47:00,user341@example.com,user_341,239.05,STORE_3
+U1342,2025-03-24,East,Electronics,1492.0,Active,Phoenix,45,Free,2025-03-18 06:23:00,user342@example.com,user_342,60.9,STORE_4
+U1343,2025-03-25,West,Clothing,1590.84,Active,Austin,65,Premium,2025-01-03 01:37:00,user343@example.com,user_343,188.84,STORE_1
+U1344,2025-03-05,East,Furniture,191.89,Pending,Miami,18,Premium,2025-04-02 20:09:00,user344@example.com,user_344,120.17,STORE_5
+U1345,2025-06-15,North,Furniture,1469.05,Active,Atlanta,39,Basic,2025-07-05 04:16:00,user345@example.com,user_345,150.88,STORE_4
+U1346,2025-02-18,East,Toys,701.85,,Phoenix,70,Free,2025-05-22 05:04:00,user346@example.com,user_346,273.09,STORE_4
+U1347,2025-01-01,South,Clothing,1767.04,Pending,Denver,30,Basic,2025-07-04 02:42:00,user347@example.com,user_347,343.2,STORE_5
+U1348,2025-02-09,North,Groceries,825.51,Pending,Los Angeles,21,Free,2025-06-18 02:02:00,user348@example.com,user_348,105.03,STORE_4
+U1349,2025-02-19,West,Electronics,1146.31,,Miami,46,Free,2025-06-09 22:37:00,user349@example.com,user_349,40.08,STORE_2
+U1350,2025-06-17,South,Electronics,941.44,Active,Dallas,50,Free,2025-04-17 11:50:00,user350@example.com,user_350,25.12,STORE_1
+U1351,2025-03-19,West,Clothing,1921.57,Active,Los Angeles,61,Premium,2025-05-17 12:12:00,user351@example.com,user_351,474.01,STORE_5
+U1352,2025-07-11,South,Electronics,1534.9,Pending,Miami,44,Free,2025-06-20 13:56:00,user352@example.com,user_352,254.82,STORE_2
+U1353,2025-05-17,South,Groceries,1805.95,Pending,Dallas,41,Free,2025-04-21 23:20:00,user353@example.com,user_353,384.03,STORE_3
+U1354,2025-04-03,South,Furniture,1920.05,Active,Atlanta,17,Basic,2025-06-02 00:33:00,user354@example.com,user_354,,STORE_2
+U1355,2025-02-24,North,Electronics,1545.33,Pending,Boston,47,Free,2025-05-27 18:09:00,user355@example.com,user_355,136.17,STORE_5
+U1356,2025-03-05,East,Groceries,1624.04,Active,Denver,40,Free,2025-02-25 23:04:00,user356@example.com,user_356,413.72,STORE_5
+U1357,2025-01-25,North,Electronics,1464.27,,Los Angeles,64,Premium,2025-07-17 10:22:00,user357@example.com,user_357,64.67,STORE_2
+U1358,2025-07-11,West,Furniture,117.71,Active,Dallas,49,Free,2025-02-08 10:32:00,user358@example.com,user_358,498.7,STORE_4
+U1359,2025-07-12,West,Clothing,869.55,,Chicago,23,Basic,2025-01-22 15:36:00,user359@example.com,user_359,202.27,STORE_4
+U1360,2025-07-18,East,Clothing,967.04,Inactive,Seattle,40,Free,2025-05-27 06:35:00,user360@example.com,user_360,40.46,STORE_4
+U1361,2025-03-24,West,Electronics,1346.78,,Dallas,37,Premium,2025-03-24 11:38:00,user361@example.com,user_361,178.11,STORE_4
+U1362,2025-06-09,East,Furniture,99.31,Inactive,Houston,58,Basic,2025-02-09 23:54:00,user362@example.com,user_362,312.4,STORE_2
+U1363,2025-03-15,West,Groceries,1390.65,Active,Phoenix,43,Basic,2025-01-06 10:13:00,user363@example.com,user_363,376.43,STORE_5
+U1364,2025-05-04,East,Electronics,759.45,Active,Phoenix,25,Premium,2025-03-14 06:50:00,user364@example.com,user_364,472.86,STORE_1
+U1365,2025-04-10,North,Groceries,1729.92,Active,Phoenix,70,Free,2025-04-09 07:24:00,user365@example.com,user_365,244.91,STORE_5
+U1366,2025-05-17,West,Clothing,405.76,,Boston,60,Premium,2025-01-11 07:59:00,user366@example.com,user_366,82.72,STORE_3
+U1367,2025-06-25,North,Groceries,1254.21,Inactive,Boston,32,Premium,2025-06-10 08:56:00,user367@example.com,user_367,472.35,STORE_3
+U1368,2025-02-27,East,Groceries,1795.38,Inactive,Los Angeles,61,Basic,2025-05-14 21:39:00,user368@example.com,user_368,288.58,STORE_4
+U1369,2025-03-21,North,Furniture,1089.05,Inactive,Miami,23,Free,2025-05-19 21:51:00,user369@example.com,user_369,449.83,STORE_2
+U1370,2025-04-21,East,Toys,1835.05,Pending,Los Angeles,50,Free,2025-07-04 03:11:00,user370@example.com,user_370,383.89,STORE_4
+U1371,2025-04-16,North,Furniture,1493.76,Pending,Chicago,64,Premium,2025-01-28 04:11:00,,user_371,304.77,STORE_5
+U1372,2025-03-01,East,Clothing,1377.88,Pending,Los Angeles,59,Basic,2025-02-04 16:54:00,user372@example.com,user_372,426.8,STORE_4
+U1373,2025-05-02,East,Clothing,394.59,Active,Austin,63,Premium,2025-03-11 13:14:00,user373@example.com,user_373,37.74,STORE_4
+U1374,2025-06-07,South,Groceries,1734.88,Inactive,Austin,40,Premium,2025-06-05 23:52:00,user374@example.com,user_374,372.52,STORE_5
+U1375,2025-05-18,West,Toys,227.54,,New York,30,Free,2025-05-18 12:47:00,,user_375,481.48,STORE_2
+U1376,2025-03-16,South,Furniture,1769.95,Pending,Seattle,25,Basic,2025-03-17 19:58:00,user376@example.com,user_376,415.8,STORE_4
+U1377,2025-01-24,West,Clothing,1559.67,Inactive,Austin,41,Basic,2025-04-26 00:11:00,user377@example.com,user_377,441.86,STORE_1
+U1378,2025-03-06,North,Clothing,1439.57,Active,Los Angeles,22,Free,2025-04-26 20:23:00,user378@example.com,user_378,487.72,STORE_5
+U1379,2025-02-10,South,Toys,767.41,Inactive,Dallas,51,Free,2025-02-08 05:55:00,user379@example.com,user_379,,STORE_3
+U1380,2025-03-21,South,Groceries,1256.64,Active,Chicago,27,Premium,2025-06-09 08:00:00,user380@example.com,user_380,7.85,STORE_4
+U1381,2025-03-02,East,Toys,1322.35,,Austin,43,Premium,2025-06-03 19:00:00,user381@example.com,user_381,280.99,STORE_2
+U1382,2025-01-13,East,Clothing,119.58,Pending,New York,24,Premium,2025-06-20 18:53:00,user382@example.com,user_382,58.9,STORE_2
+U1383,2025-02-11,North,Toys,1325.24,Inactive,Seattle,62,Free,2025-04-03 01:05:00,user383@example.com,user_383,411.03,STORE_4
+U1384,2025-05-21,West,Groceries,946.93,Active,Atlanta,70,Basic,2025-03-26 16:26:00,user384@example.com,user_384,59.1,STORE_5
+U1385,2025-01-23,South,Toys,1868.44,Pending,Austin,53,Basic,2025-03-08 16:36:00,user385@example.com,user_385,283.5,STORE_5
+U1386,2025-07-06,South,Furniture,1617.88,Inactive,Atlanta,33,Premium,2025-01-01 03:01:00,user386@example.com,user_386,107.63,STORE_5
+U1387,2025-04-17,South,Electronics,674.25,Inactive,New York,55,Premium,2025-06-26 09:16:00,user387@example.com,user_387,165.34,STORE_1
+U1388,2025-01-30,North,Groceries,798.14,Active,Chicago,27,Basic,2025-03-28 21:30:00,user388@example.com,user_388,243.34,STORE_4
+U1389,2025-05-18,North,Furniture,1570.14,,Atlanta,18,Free,2025-03-18 18:46:00,user389@example.com,user_389,,STORE_5
+U1390,2025-06-25,North,Groceries,141.76,Inactive,Phoenix,68,Premium,2025-03-28 12:40:00,user390@example.com,user_390,97.75,STORE_1
+U1391,2025-07-20,North,Groceries,1422.58,Pending,Austin,20,Basic,2025-03-02 11:28:00,user391@example.com,user_391,91.63,STORE_3
+U1392,2025-07-20,West,Clothing,1827.57,,Boston,16,Basic,2025-05-09 04:12:00,user392@example.com,user_392,158.63,STORE_3
+U1393,2025-02-06,West,Toys,1356.67,Inactive,Houston,61,Premium,2025-04-28 12:45:00,user393@example.com,user_393,26.79,STORE_5
+U1394,2025-01-23,North,Furniture,1779.48,Active,Boston,64,Free,2025-07-10 09:01:00,user394@example.com,user_394,163.84,STORE_2
+U1395,2025-03-15,North,Toys,645.11,,Miami,22,Basic,2025-02-08 05:17:00,user395@example.com,user_395,55.68,STORE_5
+U1396,2025-03-31,North,Groceries,291.7,Pending,Denver,30,Premium,2025-01-19 09:39:00,user396@example.com,user_396,,STORE_1
+U1397,2025-05-01,West,Electronics,773.36,Active,Austin,40,Premium,2025-06-30 19:57:00,user397@example.com,user_397,310.08,STORE_3
+U1398,2025-03-27,East,Toys,166.31,,Denver,23,Premium,2025-06-28 14:06:00,user398@example.com,user_398,235.37,STORE_2
+U1399,2025-02-27,East,Toys,523.53,Pending,Austin,26,Free,2025-06-20 10:50:00,user399@example.com,user_399,37.36,STORE_1
+U1000,2025-03-31,South,Furniture,1693.07,Pending,Dallas,53,Free,2025-02-02 16:06:00,user400@example.com,user_400,280.29,STORE_1
+U1001,2025-03-19,South,Furniture,1185.17,Inactive,Denver,30,Free,2025-02-10 15:24:00,user401@example.com,user_401,218.42,STORE_4
+U1002,2025-05-26,North,Toys,1391.32,Inactive,Miami,57,Premium,2025-07-09 22:36:00,user402@example.com,user_402,166.06,STORE_1
+U1003,2025-04-24,East,Groceries,1912.21,Active,Denver,21,Free,2025-06-02 12:20:00,user403@example.com,user_403,409.43,STORE_5
+U1004,2025-07-13,West,Clothing,1325.15,,Boston,33,Basic,2025-06-07 18:28:00,user404@example.com,user_404,287.29,STORE_3
+U1005,2025-04-22,North,Electronics,1169.63,,Chicago,69,Basic,2025-01-16 11:57:00,user405@example.com,user_405,411.27,STORE_3
+U1006,2025-01-29,North,Electronics,478.13,,Miami,35,Free,2025-04-08 12:24:00,user406@example.com,user_406,73.84,STORE_5
+U1007,2025-04-09,North,Furniture,316.99,Inactive,Chicago,15,Premium,2025-06-15 00:09:00,user407@example.com,user_407,495.16,STORE_1
+U1008,2025-02-05,South,Furniture,1788.23,,Denver,26,Basic,2025-05-11 13:35:00,user408@example.com,user_408,215.26,STORE_1
+U1009,2025-05-28,South,Clothing,1427.14,Pending,Austin,49,Free,2025-04-04 01:02:00,user409@example.com,user_409,243.36,STORE_1
+U1010,2025-02-06,North,Furniture,1038.73,Active,Houston,45,Free,2025-07-09 21:42:00,user410@example.com,user_410,159.69,STORE_1
+U1011,2025-03-29,West,Furniture,913.53,,Denver,61,Basic,2025-04-18 11:51:00,user411@example.com,user_411,300.83,STORE_3
+U1012,2025-07-06,North,Electronics,1262.31,Inactive,Denver,18,Free,2025-03-16 23:39:00,,user_412,43.05,STORE_3
+U1013,2025-03-06,East,Toys,569.13,Pending,New York,62,Premium,2025-06-04 05:58:00,user413@example.com,user_413,404.88,STORE_3
+U1014,2025-07-20,East,Furniture,369.81,Active,Dallas,20,Premium,2025-06-02 04:53:00,user414@example.com,user_414,122.78,STORE_4
+U1015,2025-07-05,East,Clothing,1159.74,Pending,New York,56,Basic,2025-07-13 03:03:00,user415@example.com,user_415,374.34,STORE_5
+U1016,2025-03-01,South,Furniture,954.43,Inactive,Boston,70,Basic,2025-01-04 09:59:00,user416@example.com,user_416,267.48,STORE_1
+U1017,2025-01-25,North,Furniture,1224.87,Pending,Dallas,32,Basic,2025-01-26 08:41:00,user417@example.com,user_417,124.69,STORE_5
+U1018,2025-07-17,East,Toys,681.44,Inactive,Dallas,50,Premium,2025-06-22 00:53:00,user418@example.com,user_418,344.32,STORE_3
+U1019,2025-02-26,North,Groceries,394.23,Active,Denver,20,Premium,2025-06-02 21:57:00,user419@example.com,user_419,355.5,STORE_1
+U1020,2025-01-23,East,Furniture,1316.23,Inactive,Los Angeles,59,Premium,2025-03-06 09:29:00,user420@example.com,user_420,497.65,STORE_4
+U1021,2025-06-27,North,Groceries,332.31,Active,Phoenix,64,Premium,2025-04-08 12:21:00,user421@example.com,user_421,93.08,STORE_1
+U1022,2025-05-06,East,Toys,791.34,,Los Angeles,24,Free,2025-07-16 13:13:00,user422@example.com,user_422,133.2,STORE_1
+U1023,2025-01-19,West,Toys,1457.81,,New York,46,Premium,2025-06-17 20:00:00,user423@example.com,user_423,351.53,STORE_4
+U1024,2025-05-28,West,Toys,1418.14,,Seattle,42,Basic,2025-07-06 02:34:00,user424@example.com,user_424,391.02,STORE_1
+U1025,2025-05-26,North,Groceries,1366.85,,New York,55,Free,2025-01-24 11:34:00,user425@example.com,user_425,381.42,STORE_3
+U1026,2025-06-15,East,Clothing,1113.41,,Miami,27,Basic,2025-06-28 12:57:00,user426@example.com,user_426,443.18,STORE_4
+U1027,2025-07-08,East,Clothing,81.04,Active,Atlanta,52,Premium,2025-05-06 12:04:00,user427@example.com,user_427,482.65,STORE_4
+U1028,2025-01-05,West,Groceries,121.55,Active,Austin,22,Premium,2025-06-17 21:33:00,user428@example.com,user_428,78.73,STORE_5
+U1029,2025-03-01,West,Electronics,1473.56,,Miami,16,Basic,2025-06-08 01:15:00,user429@example.com,user_429,29.73,STORE_3
+U1030,2025-01-25,South,Toys,349.67,Active,Los Angeles,22,Basic,2025-06-02 19:14:00,user430@example.com,user_430,418.77,STORE_4
+U1031,2025-03-25,West,Toys,1096.31,Pending,Houston,63,Premium,2025-06-01 05:21:00,user431@example.com,user_431,88.19,STORE_3
+U1032,2025-05-22,East,Furniture,494.85,Active,Chicago,21,Free,2025-06-06 12:49:00,user432@example.com,user_432,8.58,STORE_1
+U1033,2025-06-30,North,Furniture,1390.07,,Atlanta,23,Premium,2025-02-06 20:17:00,user433@example.com,user_433,307.22,STORE_1
+U1034,2025-06-02,East,Furniture,1227.98,Active,Miami,67,Basic,2025-03-31 13:00:00,user434@example.com,user_434,488.51,STORE_5
+U1035,2025-04-03,East,Furniture,1542.96,Inactive,Phoenix,18,Premium,2025-01-29 04:43:00,user435@example.com,user_435,84.08,STORE_1
+U1036,2025-01-14,North,Groceries,427.08,Pending,Dallas,54,Basic,2025-01-12 03:47:00,user436@example.com,user_436,19.39,STORE_5
+U1037,2025-01-30,West,Clothing,1445.59,Pending,Austin,27,Free,2025-06-23 10:14:00,user437@example.com,user_437,370.19,STORE_2
+U1038,2025-04-07,East,Electronics,947.27,,New York,42,Premium,2025-02-25 19:29:00,user438@example.com,user_438,101.11,STORE_3
+U1039,2025-03-11,East,Groceries,263.15,Active,Phoenix,23,Premium,2025-04-30 14:26:00,user439@example.com,user_439,303.8,STORE_5
+U1040,2025-02-13,East,Electronics,829.28,,Houston,52,Basic,2025-04-29 08:00:00,user440@example.com,user_440,167.01,STORE_5
+U1041,2025-02-26,East,Toys,1797.52,,New York,17,Basic,2025-07-07 16:02:00,user441@example.com,user_441,349.84,STORE_1
+U1042,2025-04-26,South,Clothing,175.35,Active,Atlanta,61,Basic,2025-02-25 04:22:00,user442@example.com,user_442,242.49,STORE_3
+U1043,2025-02-11,South,Toys,1497.1,Active,Seattle,44,Premium,2025-06-30 12:11:00,user443@example.com,user_443,318.53,STORE_1
+U1044,2025-04-09,North,Toys,75.1,,Phoenix,59,Free,2025-05-19 18:50:00,user444@example.com,user_444,171.17,STORE_1
+U1045,2025-05-12,North,Electronics,230.82,Pending,Seattle,54,Premium,2025-04-04 11:11:00,user445@example.com,user_445,387.92,STORE_2
+U1046,2025-03-27,East,Toys,235.98,,Atlanta,63,Free,2025-06-29 06:48:00,user446@example.com,user_446,137.34,STORE_4
+U1047,2025-03-12,West,Electronics,751.9,,Seattle,47,Free,2025-02-01 15:45:00,user447@example.com,user_447,228.73,STORE_3
+U1048,2025-06-22,West,Clothing,1784.89,,Los Angeles,20,Basic,2025-02-15 09:04:00,user448@example.com,user_448,250.68,STORE_2
+U1049,2025-05-14,West,Groceries,838.91,Inactive,Seattle,37,Basic,2025-04-24 23:41:00,,user_449,,STORE_2
+U1050,2025-05-14,North,Furniture,1161.62,Pending,Seattle,52,Free,2025-06-28 16:53:00,user450@example.com,user_450,449.65,STORE_3
+U1051,2025-02-13,North,Clothing,973.64,Pending,New York,24,Basic,2025-03-14 14:10:00,user451@example.com,user_451,95.23,STORE_2
+U1052,2025-07-01,East,Clothing,483.43,Active,Dallas,51,Premium,2025-04-23 08:23:00,user452@example.com,user_452,,STORE_3
+U1053,2025-03-30,East,Groceries,902.37,Inactive,Boston,34,Premium,2025-01-07 12:59:00,user453@example.com,user_453,163.51,STORE_1
+U1054,2025-07-09,North,Groceries,953.08,Pending,Denver,57,Premium,2025-05-25 23:58:00,user454@example.com,user_454,242.1,STORE_1
+U1055,2025-02-05,West,Groceries,59.34,Inactive,Seattle,37,Premium,2025-03-25 01:38:00,user455@example.com,user_455,468.15,STORE_3
+U1056,2025-02-20,West,Electronics,1081.44,,Miami,57,Premium,2025-05-12 12:12:00,user456@example.com,user_456,32.74,STORE_3
+U1057,2025-04-12,East,Furniture,745.56,Pending,New York,33,Basic,2025-03-31 09:28:00,user457@example.com,user_457,224.89,STORE_4
+U1058,2025-04-24,North,Clothing,1613.29,,Atlanta,41,Premium,2025-05-31 19:05:00,user458@example.com,user_458,265.02,STORE_3
+U1059,2025-01-17,South,Electronics,23.17,Pending,Austin,26,Free,2025-04-29 22:36:00,user459@example.com,user_459,193.98,STORE_5
+U1060,2025-05-06,West,Groceries,1670.82,Pending,Seattle,50,Free,2025-04-29 07:01:00,user460@example.com,user_460,322.07,STORE_4
+U1061,2025-02-01,North,Furniture,366.95,Inactive,New York,22,Basic,2025-05-07 02:38:00,user461@example.com,user_461,434.83,STORE_4
+U1062,2025-06-27,West,Groceries,1029.93,Active,Phoenix,25,Free,2025-01-15 04:20:00,user462@example.com,user_462,31.18,STORE_3
+U1063,2025-04-18,North,Electronics,586.81,Active,Boston,27,Free,2025-02-16 03:38:00,user463@example.com,user_463,414.28,STORE_3
+U1064,2025-03-11,North,Electronics,1073.5,Pending,Chicago,15,Premium,2025-05-13 09:23:00,user464@example.com,user_464,85.7,STORE_2
+U1065,2025-02-09,East,Clothing,1592.26,Active,Austin,44,Premium,2025-01-30 04:59:00,,user_465,73.81,STORE_4
+U1066,2025-06-02,North,Clothing,1422.69,Active,Atlanta,67,Premium,2025-02-26 04:54:00,user466@example.com,user_466,108.87,STORE_1
+U1067,2025-04-19,West,Electronics,47.42,,Austin,17,Premium,2025-01-28 01:50:00,user467@example.com,user_467,454.72,STORE_1
+U1068,2025-01-17,North,Electronics,1511.56,Active,Denver,28,Free,2025-02-21 05:42:00,user468@example.com,user_468,471.21,STORE_5
+U1069,2025-03-31,North,Clothing,1711.72,Inactive,Boston,51,Premium,2025-01-26 18:48:00,,user_469,144.52,STORE_5
+U1070,2025-01-02,West,Clothing,1841.75,,Dallas,59,Free,2025-02-17 14:43:00,user470@example.com,user_470,192.91,STORE_2
+U1071,2025-05-12,East,Furniture,234.56,Pending,Los Angeles,44,Premium,2025-05-14 04:31:00,user471@example.com,user_471,25.1,STORE_3
+U1072,2025-05-07,West,Furniture,574.39,Pending,Miami,68,Basic,2025-02-27 17:26:00,user472@example.com,user_472,39.46,STORE_4
+U1073,2025-06-23,North,Clothing,35.44,,Miami,21,Basic,2025-04-23 16:42:00,user473@example.com,user_473,349.04,STORE_1
+U1074,2025-07-09,East,Electronics,733.78,Inactive,Dallas,27,Free,2025-04-14 03:14:00,user474@example.com,user_474,358.18,STORE_5
+U1075,2025-06-01,North,Furniture,718.63,,Seattle,47,Basic,2025-02-07 14:06:00,user475@example.com,user_475,471.49,STORE_1
+U1076,2025-01-26,West,Electronics,1001.29,Active,Chicago,39,Free,2025-06-23 10:09:00,user476@example.com,user_476,332.23,STORE_5
+U1077,2025-07-16,South,Furniture,411.84,,Seattle,47,Basic,2025-05-19 10:51:00,user477@example.com,user_477,20.64,STORE_4
+U1078,2025-01-31,South,Furniture,635.97,,Seattle,44,Premium,2025-01-09 05:35:00,user478@example.com,user_478,86.25,STORE_4
+U1079,2025-02-04,North,Furniture,980.04,Active,Denver,58,Basic,2025-06-18 17:43:00,user479@example.com,user_479,82.37,STORE_1
+U1080,2025-04-11,North,Furniture,1186.18,,Denver,58,Basic,2025-07-16 09:20:00,user480@example.com,user_480,186.37,STORE_5
+U1081,2025-01-07,North,Furniture,203.73,Pending,Dallas,41,Basic,2025-01-15 21:15:00,user481@example.com,user_481,455.64,STORE_1
+U1082,2025-03-20,West,Groceries,347.86,Pending,New York,44,Free,2025-04-19 18:32:00,user482@example.com,user_482,296.05,STORE_3
+U1083,2025-04-07,South,Groceries,1149.35,,Los Angeles,59,Free,2025-02-22 10:31:00,user483@example.com,user_483,309.34,STORE_3
+U1084,2025-04-22,East,Furniture,1274.53,Active,Boston,28,Basic,2025-03-09 01:19:00,user484@example.com,user_484,372.73,STORE_1
+U1085,2025-07-03,West,Toys,680.31,Active,Denver,66,Free,2025-05-02 13:13:00,user485@example.com,user_485,254.8,STORE_3
+U1086,2025-04-21,North,Clothing,834.49,Pending,Denver,47,Basic,2025-06-21 17:11:00,user486@example.com,user_486,97.34,STORE_4
+U1087,2025-02-24,South,Groceries,1874.95,,Denver,61,Free,2025-01-16 16:12:00,user487@example.com,user_487,344.23,STORE_3
+U1088,2025-04-22,South,Groceries,1721.77,Active,Miami,28,Basic,2025-03-10 09:41:00,user488@example.com,user_488,123.05,STORE_2
+U1089,2025-02-19,West,Clothing,1596.12,Pending,Seattle,46,Free,2025-04-22 13:41:00,user489@example.com,user_489,19.43,STORE_3
+U1090,2025-06-18,East,Electronics,1927.94,,New York,18,Premium,2025-03-22 19:19:00,user490@example.com,user_490,184.9,STORE_1
+U1091,2025-04-12,East,Clothing,232.75,Active,Boston,57,Free,2025-07-18 16:16:00,user491@example.com,user_491,387.73,STORE_3
+U1092,2025-03-26,South,Clothing,1871.65,Inactive,Chicago,21,Premium,2025-02-24 08:28:00,user492@example.com,user_492,,STORE_5
+U1093,2025-04-06,West,Groceries,1096.03,,Miami,30,Basic,2025-07-20 04:23:00,user493@example.com,user_493,324.47,STORE_5
+U1094,2025-01-09,West,Clothing,513.44,,Phoenix,55,Free,2025-04-03 21:07:00,user494@example.com,user_494,8.89,STORE_4
+U1095,2025-03-07,North,Electronics,1873.28,Inactive,Phoenix,28,Premium,2025-04-23 20:20:00,user495@example.com,user_495,21.77,STORE_1
+U1096,2025-07-19,South,Furniture,1476.51,Pending,Atlanta,42,Premium,2025-02-11 22:16:00,user496@example.com,user_496,407.65,STORE_3
+U1097,2025-04-27,West,Electronics,1286.33,Inactive,Miami,43,Free,2025-02-04 00:25:00,user497@example.com,user_497,59.86,STORE_2
+U1098,2025-05-13,East,Toys,1374.65,Pending,Seattle,45,Free,2025-02-04 08:11:00,user498@example.com,user_498,103.34,STORE_4
+U1099,2025-04-05,East,Furniture,1754.02,Inactive,New York,16,Free,2025-06-15 19:40:00,user499@example.com,user_499,134.58,STORE_2
+U1100,2025-01-13,South,Toys,863.52,Pending,Chicago,20,Basic,2025-02-13 18:07:00,,user_500,464.5,STORE_4
+U1101,2025-01-31,East,Clothing,389.18,Pending,Phoenix,62,Basic,2025-04-08 04:27:00,user501@example.com,user_501,145.07,STORE_2
+U1102,2025-04-18,East,Furniture,1587.0,Active,Phoenix,31,Premium,2025-06-08 14:58:00,user502@example.com,user_502,47.44,STORE_4
+U1103,2025-02-04,North,Furniture,1376.84,,Atlanta,42,Free,2025-06-02 08:04:00,user503@example.com,user_503,121.25,STORE_3
+U1104,2025-06-05,West,Electronics,514.78,,Phoenix,40,Free,2025-04-05 04:57:00,user504@example.com,user_504,254.35,STORE_3
+U1105,2025-04-30,East,Electronics,641.46,,Chicago,31,Premium,2025-03-22 01:08:00,user505@example.com,user_505,183.49,STORE_4
+U1106,2025-03-14,North,Toys,1660.88,Pending,Boston,35,Basic,2025-02-12 10:47:00,user506@example.com,user_506,427.25,STORE_4
+U1107,2025-01-14,East,Clothing,118.59,Inactive,New York,45,Basic,2025-02-11 22:29:00,user507@example.com,user_507,25.19,STORE_3
+U1108,2025-07-01,South,Furniture,991.05,Inactive,Los Angeles,37,Premium,2025-02-22 09:11:00,user508@example.com,user_508,283.81,STORE_5
+U1109,2025-02-24,West,Toys,1536.03,Inactive,Austin,19,Premium,2025-07-16 15:43:00,user509@example.com,user_509,490.76,STORE_1
+U1110,2025-04-11,North,Toys,1859.01,Active,Dallas,24,Premium,2025-01-21 14:53:00,user510@example.com,user_510,138.31,STORE_1
+U1111,2025-03-26,West,Toys,1902.28,Pending,Atlanta,61,Free,2025-02-03 06:55:00,,user_511,32.49,STORE_1
+U1112,2025-05-21,South,Electronics,803.73,Inactive,Houston,64,Basic,2025-01-23 00:54:00,user512@example.com,user_512,325.35,STORE_2
+U1113,2025-01-31,North,Furniture,1604.19,Pending,Miami,53,Premium,2025-04-02 21:06:00,user513@example.com,user_513,443.28,STORE_4
+U1114,2025-03-10,South,Electronics,1515.42,Pending,Denver,26,Basic,2025-06-11 13:05:00,,user_514,115.99,STORE_2
+U1115,2025-05-07,West,Groceries,941.76,Active,Seattle,34,Premium,2025-02-02 21:57:00,user515@example.com,user_515,286.43,STORE_5
+U1116,2025-01-20,West,Toys,224.19,,Austin,21,Basic,2025-06-19 23:36:00,user516@example.com,user_516,385.48,STORE_1
+U1117,2025-01-30,South,Clothing,1574.49,,New York,20,Basic,2025-06-30 09:20:00,user517@example.com,user_517,313.79,STORE_3
+U1118,2025-03-29,East,Clothing,378.32,Pending,Miami,21,Basic,2025-05-17 00:00:00,user518@example.com,,232.78,STORE_4
+U1119,2025-06-18,South,Groceries,1240.81,Pending,Atlanta,58,Free,2025-06-22 12:51:00,user519@example.com,user_519,,STORE_1
+U1120,2025-01-05,East,Electronics,426.37,Inactive,Miami,30,Basic,2025-06-10 17:12:00,user520@example.com,user_520,213.83,STORE_1
+U1121,2025-02-12,East,Furniture,1928.1,,New York,70,Basic,2025-05-30 07:12:00,user521@example.com,user_521,170.26,STORE_1
+U1122,2025-06-11,South,Furniture,1698.75,Pending,New York,46,Basic,2025-05-05 16:37:00,user522@example.com,user_522,434.48,STORE_2
+U1123,2025-07-02,West,Toys,47.85,Pending,Boston,19,Basic,2025-06-15 13:56:00,user523@example.com,user_523,176.65,STORE_4
+U1124,2025-01-06,East,Groceries,1455.16,,Dallas,43,Premium,2025-05-10 07:37:00,user524@example.com,user_524,422.02,STORE_4
+U1125,2025-02-03,North,Furniture,1920.01,Pending,Seattle,66,Premium,2025-06-09 06:18:00,user525@example.com,user_525,90.78,STORE_2
+U1126,2025-06-05,South,Electronics,1589.03,,Phoenix,30,Premium,2025-05-23 01:01:00,user526@example.com,user_526,91.48,STORE_5
+U1127,2025-01-09,West,Groceries,866.93,Inactive,Los Angeles,50,Premium,2025-05-05 08:21:00,user527@example.com,user_527,280.73,STORE_2
+U1128,2025-06-26,West,Electronics,1854.0,,Seattle,68,Premium,2025-01-28 19:39:00,user528@example.com,user_528,25.77,STORE_1
+U1129,2025-02-12,West,Clothing,1822.86,Inactive,Atlanta,33,Free,2025-04-24 16:31:00,user529@example.com,user_529,170.63,STORE_2
+U1130,2025-02-01,East,Furniture,1939.58,Active,Houston,68,Basic,2025-03-29 09:32:00,user530@example.com,user_530,210.43,STORE_2
+U1131,2025-02-08,South,Clothing,284.61,,Austin,41,Basic,2025-05-13 21:23:00,user531@example.com,user_531,360.22,STORE_5
+U1132,2025-01-18,West,Groceries,636.46,Inactive,Austin,18,Basic,2025-07-14 01:42:00,user532@example.com,user_532,488.98,STORE_5
+U1133,2025-03-17,South,Furniture,1772.71,Pending,Atlanta,62,Basic,2025-03-30 00:52:00,user533@example.com,user_533,351.65,STORE_4
+U1134,2025-06-14,East,Toys,1252.48,,Atlanta,37,Free,2025-04-14 06:56:00,user534@example.com,,363.92,STORE_2
+U1135,2025-05-14,North,Clothing,194.71,Pending,Boston,36,Free,2025-02-10 00:01:00,user535@example.com,user_535,416.95,STORE_3
+U1136,2025-07-05,South,Toys,229.78,Active,Dallas,31,Free,2025-05-10 11:07:00,,user_536,152.49,STORE_1
+U1137,2025-04-27,North,Clothing,1612.72,Inactive,Dallas,34,Basic,2025-06-20 22:36:00,user537@example.com,user_537,127.58,STORE_3
+U1138,2025-05-13,East,Groceries,914.08,Inactive,Atlanta,42,Basic,2025-01-21 02:03:00,user538@example.com,user_538,43.65,STORE_5
+U1139,2025-04-14,South,Groceries,1172.76,,Seattle,59,Basic,2025-07-07 13:52:00,user539@example.com,user_539,231.57,STORE_5
+U1140,2025-05-16,West,Clothing,916.31,Active,Atlanta,25,Free,2025-04-05 03:38:00,user540@example.com,user_540,148.35,STORE_5
+U1141,2025-02-09,West,Groceries,616.8,Pending,Phoenix,33,Basic,2025-01-08 04:09:00,user541@example.com,user_541,156.06,STORE_3
+U1142,2025-02-25,East,Furniture,14.15,Pending,Los Angeles,70,Premium,2025-04-17 15:36:00,user542@example.com,user_542,191.77,STORE_5
+U1143,2025-02-03,East,Toys,1276.56,,Miami,43,Premium,2025-07-06 10:05:00,user543@example.com,user_543,120.25,STORE_4
+U1144,2025-03-28,West,Furniture,1474.47,Active,Chicago,60,Premium,2025-05-27 20:50:00,user544@example.com,user_544,323.74,STORE_1
+U1145,2025-02-19,West,Toys,1048.29,,Boston,16,Premium,2025-06-18 17:11:00,user545@example.com,user_545,415.7,STORE_5
+U1146,2025-04-24,West,Toys,1217.64,,Denver,17,Basic,2025-01-06 10:27:00,user546@example.com,,194.1,STORE_1
+U1147,2025-01-30,West,Toys,344.63,Inactive,Chicago,31,Premium,2025-02-09 09:26:00,user547@example.com,user_547,94.82,STORE_1
+U1148,2025-03-18,South,Electronics,646.88,,Dallas,31,Basic,2025-01-31 01:12:00,user548@example.com,user_548,256.77,STORE_5
+U1149,2025-04-09,West,Groceries,130.66,,Boston,41,Premium,2025-05-04 00:26:00,user549@example.com,user_549,,STORE_5
+U1150,2025-05-31,West,Clothing,1528.33,Inactive,Phoenix,51,Basic,2025-04-25 02:54:00,user550@example.com,user_550,189.79,STORE_2
+U1151,2025-07-20,East,Toys,1905.7,,New York,15,Basic,2025-06-08 09:41:00,user551@example.com,,243.68,STORE_5
+U1152,2025-03-06,South,Groceries,1686.45,Inactive,Denver,68,Free,2025-03-14 01:10:00,user552@example.com,user_552,200.68,STORE_1
+U1153,2025-02-05,North,Furniture,429.59,Pending,Miami,36,Free,2025-03-08 22:28:00,user553@example.com,user_553,109.26,STORE_5
+U1154,2025-03-26,West,Clothing,1296.42,Active,Denver,45,Premium,2025-01-03 21:11:00,user554@example.com,user_554,382.42,STORE_5
+U1155,2025-01-21,West,Toys,71.59,,Miami,22,Basic,2025-04-07 19:22:00,user555@example.com,user_555,491.98,STORE_1
+U1156,2025-04-29,North,Clothing,894.71,Inactive,Atlanta,16,Basic,2025-06-24 22:22:00,user556@example.com,user_556,405.17,STORE_2
+U1157,2025-03-01,South,Groceries,83.22,,Atlanta,60,Free,2025-02-23 00:12:00,user557@example.com,user_557,142.29,STORE_5
+U1158,2025-05-07,East,Toys,395.6,Inactive,Los Angeles,52,Premium,2025-07-10 02:08:00,user558@example.com,user_558,263.92,STORE_3
+U1159,2025-02-19,West,Toys,1232.77,,New York,42,Free,2025-06-22 20:03:00,user559@example.com,user_559,206.4,STORE_1
+U1160,2025-06-24,South,Furniture,729.33,Active,Atlanta,29,Premium,2025-03-13 13:34:00,user560@example.com,,45.5,STORE_5
+U1161,2025-01-07,East,Furniture,1915.97,Inactive,Houston,25,Basic,2025-03-21 02:40:00,user561@example.com,,16.89,STORE_3
+U1162,2025-03-06,East,Electronics,952.42,Pending,New York,67,Basic,2025-05-14 07:04:00,user562@example.com,user_562,314.55,STORE_5
+U1163,2025-02-01,West,Electronics,1834.26,,Dallas,69,Free,2025-01-17 04:03:00,user563@example.com,user_563,314.96,STORE_1
+U1164,2025-01-27,West,Toys,113.88,,Austin,21,Free,2025-07-12 13:14:00,user564@example.com,user_564,229.44,STORE_4
+U1165,2025-04-20,West,Groceries,1305.33,Active,Seattle,48,Basic,2025-05-31 06:06:00,user565@example.com,user_565,,STORE_2
+U1166,2025-05-27,East,Toys,520.01,,Seattle,61,Free,2025-04-24 05:15:00,user566@example.com,,294.34,STORE_5
+U1167,2025-06-16,North,Groceries,1171.5,Inactive,Chicago,45,Basic,2025-06-04 10:18:00,user567@example.com,,340.76,STORE_1
+U1168,2025-03-02,West,Furniture,694.19,Inactive,Miami,27,Premium,2025-03-29 06:42:00,user568@example.com,user_568,347.74,STORE_5
+U1169,2025-05-25,North,Toys,606.27,Pending,Chicago,21,Basic,2025-01-11 15:14:00,user569@example.com,user_569,235.94,STORE_2
+U1170,2025-03-03,South,Groceries,1616.47,,Houston,40,Premium,2025-01-02 11:00:00,user570@example.com,,148.84,STORE_2
+U1171,2025-06-11,North,Electronics,1950.87,Inactive,Houston,33,Premium,2025-02-26 08:46:00,user571@example.com,user_571,102.01,STORE_2
+U1172,2025-03-09,West,Electronics,1664.58,Inactive,Austin,56,Premium,2025-03-28 06:19:00,user572@example.com,user_572,89.82,STORE_5
+U1173,2025-06-09,South,Electronics,245.8,Inactive,Houston,27,Free,2025-04-07 22:23:00,user573@example.com,user_573,460.9,STORE_5
+U1174,2025-05-31,East,Toys,595.42,Inactive,Dallas,30,Premium,2025-06-11 08:55:00,user574@example.com,user_574,247.05,STORE_1
+U1175,2025-07-20,South,Toys,139.1,,Miami,63,Free,2025-04-06 15:33:00,user575@example.com,user_575,348.78,STORE_4
+U1176,2025-05-02,North,Toys,807.88,Active,Houston,29,Premium,2025-04-26 07:25:00,user576@example.com,user_576,82.82,STORE_3
+U1177,2025-03-07,West,Clothing,1505.73,Pending,Seattle,48,Basic,2025-02-28 18:02:00,user577@example.com,user_577,236.44,STORE_4
+U1178,2025-04-05,South,Groceries,553.31,Active,Chicago,43,Premium,2025-03-09 20:04:00,user578@example.com,user_578,258.83,STORE_1
+U1179,2025-03-12,East,Electronics,245.99,Pending,New York,49,Premium,2025-03-27 06:43:00,user579@example.com,user_579,343.35,STORE_3
+U1180,2025-02-18,East,Toys,1825.64,Active,Phoenix,33,Basic,2025-07-20 12:25:00,user580@example.com,user_580,,STORE_5
+U1181,2025-07-14,East,Furniture,462.88,Inactive,Seattle,29,Free,2025-05-31 17:48:00,user581@example.com,user_581,47.51,STORE_2
+U1182,2025-04-20,South,Clothing,882.97,Active,Dallas,23,Free,2025-02-02 09:47:00,,user_582,173.21,STORE_4
+U1183,2025-04-19,South,Toys,606.28,Active,Denver,65,Premium,2025-02-05 04:21:00,user583@example.com,user_583,289.07,STORE_4
+U1184,2025-04-08,East,Furniture,136.78,,Houston,45,Premium,2025-03-26 18:28:00,user584@example.com,user_584,339.07,STORE_2
+U1185,2025-01-09,South,Electronics,381.52,Active,Austin,33,Premium,2025-03-01 09:42:00,user585@example.com,user_585,10.47,STORE_3
+U1186,2025-04-16,South,Clothing,1979.29,Inactive,Boston,41,Basic,2025-07-10 02:24:00,user586@example.com,user_586,106.81,STORE_4
+U1187,2025-07-01,South,Clothing,1211.38,Pending,Denver,27,Free,2025-07-03 21:29:00,user587@example.com,,36.67,STORE_4
+U1188,2025-06-04,East,Toys,664.49,,Seattle,44,Free,2025-01-11 23:05:00,user588@example.com,user_588,351.66,STORE_3
+U1189,2025-04-11,East,Furniture,505.78,,Seattle,39,Free,2025-02-16 22:36:00,user589@example.com,user_589,,STORE_2
+U1190,2025-03-12,North,Electronics,1399.11,Inactive,Seattle,41,Free,2025-02-01 11:04:00,user590@example.com,user_590,208.0,STORE_2
+U1191,2025-03-06,East,Toys,98.82,Active,Los Angeles,55,Free,2025-06-22 23:29:00,user591@example.com,user_591,201.35,STORE_1
+U1192,2025-03-06,West,Clothing,660.95,,Seattle,44,Premium,2025-01-22 17:42:00,user592@example.com,user_592,411.11,STORE_2
+U1193,2025-02-13,West,Toys,210.03,Pending,Los Angeles,49,Free,2025-04-11 05:04:00,user593@example.com,,223.13,STORE_2
+U1194,2025-02-25,West,Toys,440.17,Active,Miami,66,Free,2025-06-14 21:45:00,user594@example.com,user_594,224.77,STORE_5
+U1195,2025-01-02,West,Furniture,1536.56,Inactive,Dallas,30,Premium,2025-01-24 00:26:00,,,341.58,STORE_1
+U1196,2025-02-26,West,Clothing,1450.78,Active,Austin,47,Premium,2025-03-25 10:35:00,user596@example.com,user_596,200.56,STORE_4
+U1197,2025-01-31,East,Clothing,220.71,Pending,Chicago,15,Basic,2025-06-17 10:00:00,user597@example.com,user_597,,STORE_3
+U1198,2025-06-16,North,Electronics,143.99,Inactive,Austin,34,Free,2025-05-08 03:45:00,user598@example.com,user_598,89.87,STORE_1
+U1199,2025-06-03,North,Furniture,1359.02,Inactive,Dallas,26,Free,2025-07-14 22:20:00,user599@example.com,user_599,,STORE_1
+U1200,2025-06-05,South,Furniture,1026.94,Inactive,Boston,52,Free,2025-01-04 07:01:00,user600@example.com,user_600,370.27,STORE_2
+U1201,2025-06-08,West,Electronics,283.74,,Phoenix,27,Premium,2025-04-07 06:41:00,,user_601,473.21,STORE_3
+U1202,2025-02-04,North,Groceries,1290.77,Active,Boston,65,Basic,2025-06-15 09:48:00,,user_602,124.91,STORE_5
+U1203,2025-01-14,East,Clothing,1220.05,,Boston,35,Premium,2025-04-24 20:00:00,user603@example.com,user_603,30.79,STORE_2
+U1204,2025-02-22,East,Electronics,355.61,Inactive,Houston,47,Premium,2025-04-20 23:29:00,user604@example.com,user_604,92.34,STORE_2
+U1205,2025-03-19,North,Toys,902.06,Inactive,Phoenix,70,Basic,2025-01-21 11:25:00,user605@example.com,user_605,306.65,STORE_4
+U1206,2025-07-14,East,Furniture,49.42,,Austin,69,Premium,2025-07-14 09:38:00,user606@example.com,user_606,193.32,STORE_3
+U1207,2025-04-27,North,Furniture,1128.66,,Los Angeles,36,Premium,2025-07-03 15:12:00,user607@example.com,user_607,,STORE_5
+U1208,2025-07-06,North,Furniture,815.06,,Austin,62,Basic,2025-04-09 15:19:00,user608@example.com,user_608,24.22,STORE_1
+U1209,2025-04-09,East,Clothing,1528.27,Pending,Atlanta,37,Free,2025-07-01 15:40:00,user609@example.com,user_609,463.63,STORE_2
+U1210,2025-03-04,South,Electronics,1843.72,Pending,Miami,60,Free,2025-01-08 22:42:00,user610@example.com,user_610,342.13,STORE_3
+U1211,2025-03-05,East,Electronics,242.29,Active,Miami,60,Basic,2025-04-12 22:37:00,user611@example.com,user_611,438.62,STORE_2
+U1212,2025-04-20,North,Groceries,1006.29,,Denver,34,Free,2025-04-16 23:55:00,user612@example.com,user_612,175.47,STORE_2
+U1213,2025-03-10,East,Furniture,1401.03,Active,Chicago,67,Basic,2025-01-01 03:04:00,user613@example.com,user_613,147.73,STORE_4
+U1214,2025-02-13,East,Groceries,380.94,Inactive,Houston,46,Premium,2025-05-09 03:28:00,user614@example.com,user_614,376.21,STORE_2
+U1215,2025-03-08,South,Furniture,1257.41,Active,Miami,25,Premium,2025-03-17 02:24:00,user615@example.com,user_615,,STORE_2
+U1216,2025-05-03,South,Electronics,28.92,Pending,New York,57,Free,2025-01-11 03:13:00,user616@example.com,,493.51,STORE_3
+U1217,2025-05-05,South,Groceries,1212.7,Pending,Dallas,58,Basic,2025-03-22 07:23:00,user617@example.com,user_617,,STORE_3
+U1218,2025-03-26,West,Electronics,919.27,,Atlanta,68,Premium,2025-01-07 19:07:00,user618@example.com,user_618,408.45,STORE_3
+U1219,2025-04-26,South,Toys,832.12,Inactive,New York,55,Basic,2025-01-05 20:23:00,user619@example.com,user_619,340.58,STORE_2
+U1220,2025-06-05,South,Furniture,1481.02,Active,Dallas,42,Basic,2025-06-18 22:57:00,user620@example.com,user_620,357.41,STORE_5
+U1221,2025-05-27,West,Clothing,1000.87,Active,Phoenix,68,Free,2025-05-21 14:10:00,user621@example.com,user_621,272.63,STORE_2
+U1222,2025-02-24,East,Electronics,219.88,Active,Chicago,35,Basic,2025-07-16 08:14:00,user622@example.com,user_622,336.95,STORE_2
+U1223,2025-05-17,South,Electronics,1593.13,Pending,Houston,51,Free,2025-01-17 20:21:00,user623@example.com,user_623,193.92,STORE_5
+U1224,2025-04-22,East,Clothing,525.6,Pending,Los Angeles,22,Premium,2025-03-29 23:37:00,user624@example.com,user_624,187.03,STORE_3
+U1225,2025-04-08,West,Groceries,133.15,Inactive,Austin,42,Basic,2025-07-17 11:51:00,user625@example.com,user_625,302.8,STORE_2
+U1226,2025-01-28,South,Electronics,1081.2,,Dallas,24,Basic,2025-02-26 15:43:00,user626@example.com,user_626,334.35,STORE_1
+U1227,2025-06-03,North,Groceries,1009.73,Active,Phoenix,69,Free,2025-05-27 15:40:00,user627@example.com,user_627,191.47,STORE_3
+U1228,2025-02-09,East,Clothing,1403.81,Active,Chicago,69,Basic,2025-07-06 12:19:00,user628@example.com,user_628,495.58,STORE_5
+U1229,2025-04-11,North,Furniture,1359.02,Pending,Austin,40,Premium,2025-05-16 23:18:00,user629@example.com,user_629,276.26,STORE_1
+U1230,2025-02-03,North,Toys,1733.05,Active,Atlanta,34,Basic,2025-06-17 05:36:00,user630@example.com,user_630,76.69,STORE_2
+U1231,2025-07-11,East,Electronics,730.83,Active,Miami,65,Premium,2025-04-07 13:43:00,user631@example.com,user_631,487.21,STORE_2
+U1232,2025-01-14,West,Toys,1303.69,,Chicago,55,Free,2025-04-14 07:02:00,user632@example.com,user_632,300.1,STORE_2
+U1233,2025-06-17,South,Electronics,1557.68,,Phoenix,55,Free,2025-04-24 11:00:00,user633@example.com,user_633,336.05,STORE_5
+U1234,2025-02-27,West,Toys,1150.23,,Phoenix,59,Free,2025-01-25 18:11:00,user634@example.com,user_634,152.69,STORE_2
+U1235,2025-01-26,North,Electronics,1430.4,Inactive,Austin,67,Free,2025-01-06 12:35:00,user635@example.com,user_635,36.65,STORE_5
+U1236,2025-05-18,West,Clothing,1931.71,Active,Chicago,70,Free,2025-06-27 05:00:00,user636@example.com,user_636,68.76,STORE_2
+U1237,2025-06-17,East,Electronics,1129.37,Active,Los Angeles,22,Free,2025-03-18 11:34:00,user637@example.com,user_637,127.93,STORE_1
+U1238,2025-05-13,North,Toys,895.39,,Atlanta,35,Free,2025-04-01 19:34:00,user638@example.com,user_638,27.14,STORE_1
+U1239,2025-02-18,East,Groceries,1713.61,Inactive,Chicago,53,Free,2025-02-25 18:22:00,user639@example.com,user_639,277.18,STORE_3
+U1240,2025-04-08,East,Furniture,917.57,Pending,Miami,42,Free,2025-02-06 17:13:00,user640@example.com,user_640,349.92,STORE_2
+U1241,2025-07-02,North,Toys,1318.06,Inactive,Austin,67,Premium,2025-03-22 13:24:00,,user_641,66.69,STORE_1
+U1242,2025-06-25,South,Electronics,665.42,Active,Dallas,36,Basic,2025-02-07 07:17:00,,user_642,192.42,STORE_1
+U1243,2025-07-20,West,Clothing,1057.69,Pending,Denver,67,Basic,2025-01-25 16:22:00,user643@example.com,user_643,305.7,STORE_1
+U1244,2025-02-13,North,Furniture,369.54,,Seattle,52,Premium,2025-03-08 00:43:00,user644@example.com,user_644,192.51,STORE_3
+U1245,2025-01-14,North,Clothing,1359.65,,Atlanta,44,Premium,2025-04-23 11:51:00,user645@example.com,user_645,262.69,STORE_2
+U1246,2025-03-20,West,Groceries,818.96,Pending,Los Angeles,55,Premium,2025-01-20 23:15:00,user646@example.com,user_646,,STORE_3
+U1247,2025-05-22,South,Electronics,1924.71,,Miami,47,Free,2025-02-04 15:31:00,user647@example.com,user_647,350.45,STORE_4
+U1248,2025-01-04,East,Electronics,1431.18,Pending,Houston,62,Free,2025-05-16 21:38:00,,user_648,465.44,STORE_5
+U1249,2025-02-27,East,Electronics,740.43,Inactive,Boston,37,Premium,2025-04-19 15:24:00,user649@example.com,user_649,341.14,STORE_5
+U1250,2025-07-16,West,Groceries,605.36,Pending,Phoenix,28,Premium,2025-07-08 20:36:00,user650@example.com,user_650,479.77,STORE_5
+U1251,2025-01-10,South,Toys,1698.22,Active,Dallas,15,Free,2025-04-28 10:19:00,user651@example.com,,97.15,STORE_3
+U1252,2025-01-03,West,Furniture,989.17,Active,Boston,47,Premium,2025-04-16 03:58:00,user652@example.com,user_652,116.92,STORE_4
+U1253,2025-04-06,North,Groceries,862.4,Inactive,Boston,66,Basic,2025-01-28 14:42:00,user653@example.com,user_653,219.81,STORE_3
+U1254,2025-07-01,East,Electronics,387.24,Active,Chicago,40,Basic,2025-07-10 10:57:00,,user_654,480.05,STORE_3
+U1255,2025-01-31,South,Furniture,1104.75,Inactive,Dallas,63,Basic,2025-05-09 23:59:00,user655@example.com,user_655,479.05,STORE_1
+U1256,2025-02-02,East,Groceries,1005.0,Inactive,New York,58,Basic,2025-04-20 19:47:00,,user_656,45.89,STORE_4
+U1257,2025-03-05,East,Toys,381.85,Pending,Los Angeles,70,Basic,2025-06-29 07:42:00,user657@example.com,user_657,405.93,STORE_5
+U1258,2025-06-06,East,Clothing,1985.18,Inactive,Houston,22,Premium,2025-04-13 01:17:00,user658@example.com,user_658,310.15,STORE_1
+U1259,2025-01-14,South,Furniture,1054.69,Inactive,Houston,36,Basic,2025-05-03 01:32:00,user659@example.com,user_659,184.97,STORE_3
+U1260,2025-07-02,South,Clothing,646.48,Active,Chicago,17,Premium,2025-01-14 21:47:00,user660@example.com,user_660,305.23,STORE_4
+U1261,2025-02-17,North,Furniture,733.53,Pending,Los Angeles,21,Free,2025-01-04 21:35:00,user661@example.com,user_661,405.97,STORE_5
+U1262,2025-05-16,North,Clothing,1303.99,Inactive,Denver,39,Premium,2025-01-28 04:40:00,user662@example.com,user_662,456.53,STORE_2
+U1263,2025-02-19,South,Electronics,159.01,Pending,Phoenix,61,Basic,2025-07-14 06:34:00,user663@example.com,,277.5,STORE_3
+U1264,2025-07-14,North,Groceries,902.48,Active,Austin,19,Basic,2025-04-18 16:59:00,user664@example.com,user_664,140.7,STORE_2
+U1265,2025-03-16,West,Toys,130.98,Inactive,Atlanta,67,Basic,2025-05-07 21:34:00,user665@example.com,user_665,376.61,STORE_4
+U1266,2025-05-24,South,Furniture,1218.36,Inactive,Chicago,15,Premium,2025-05-27 06:37:00,user666@example.com,user_666,230.44,STORE_5
+U1267,2025-03-08,North,Clothing,599.76,Pending,Boston,22,Premium,2025-02-27 01:34:00,user667@example.com,,442.38,STORE_2
+U1268,2025-03-11,West,Clothing,1979.18,Inactive,Boston,22,Premium,2025-06-16 11:40:00,user668@example.com,user_668,354.2,STORE_5
+U1269,2025-03-09,East,Furniture,1797.69,Pending,Dallas,18,Free,2025-01-03 11:14:00,user669@example.com,user_669,12.74,STORE_5
+U1270,2025-01-28,South,Groceries,1741.35,Inactive,Seattle,29,Basic,2025-03-10 06:37:00,user670@example.com,user_670,225.8,STORE_4
+U1271,2025-04-05,East,Furniture,196.45,Inactive,Seattle,26,Premium,2025-02-18 18:31:00,user671@example.com,user_671,158.53,STORE_2
+U1272,2025-04-11,East,Electronics,295.61,,Houston,44,Free,2025-04-14 03:46:00,user672@example.com,user_672,303.63,STORE_4
+U1273,2025-04-09,West,Electronics,1654.86,Active,Chicago,30,Premium,2025-03-10 04:40:00,user673@example.com,user_673,,STORE_1
+U1274,2025-05-19,North,Electronics,412.62,,Denver,43,Premium,2025-03-20 10:30:00,user674@example.com,user_674,315.61,STORE_1
+U1275,2025-01-06,West,Electronics,1093.84,Active,Boston,68,Basic,2025-02-06 00:58:00,user675@example.com,user_675,179.89,STORE_3
+U1276,2025-02-27,South,Electronics,988.72,Active,Houston,21,Basic,2025-04-02 02:39:00,user676@example.com,user_676,46.98,STORE_1
+U1277,2025-06-04,East,Clothing,862.97,Pending,Denver,26,Free,2025-04-19 04:57:00,user677@example.com,user_677,177.45,STORE_1
+U1278,2025-03-11,South,Groceries,1866.43,Active,New York,70,Premium,2025-07-19 20:09:00,user678@example.com,user_678,393.85,STORE_4
+U1279,2025-01-18,West,Toys,860.63,Pending,Chicago,20,Basic,2025-02-02 05:49:00,user679@example.com,user_679,348.24,STORE_4
+U1280,2025-06-04,North,Clothing,1606.26,Inactive,Austin,41,Free,2025-05-08 17:34:00,user680@example.com,user_680,46.39,STORE_4
+U1281,2025-05-15,East,Electronics,478.03,Active,Houston,69,Premium,2025-04-03 17:30:00,user681@example.com,user_681,,STORE_3
+U1282,2025-04-03,East,Groceries,926.17,,Houston,28,Premium,2025-01-15 23:08:00,user682@example.com,user_682,367.88,STORE_4
+U1283,2025-04-06,West,Electronics,1328.87,Active,Seattle,68,Free,2025-02-10 00:09:00,user683@example.com,user_683,286.75,STORE_4
+U1284,2025-02-08,East,Furniture,1489.68,Pending,Seattle,41,Free,2025-03-28 14:50:00,user684@example.com,,34.7,STORE_1
+U1285,2025-06-04,East,Toys,329.09,,Austin,58,Basic,2025-05-22 22:53:00,user685@example.com,user_685,117.52,STORE_2
+U1286,2025-03-11,West,Toys,761.34,Inactive,Atlanta,28,Basic,2025-06-08 01:14:00,user686@example.com,user_686,304.52,STORE_1
+U1287,2025-06-27,South,Furniture,633.25,,Austin,25,Premium,2025-04-06 20:27:00,user687@example.com,user_687,303.58,STORE_3
+U1288,2025-01-08,East,Groceries,333.89,Active,Los Angeles,28,Free,2025-01-03 09:12:00,user688@example.com,user_688,,STORE_3
+U1289,2025-01-22,West,Toys,1973.12,,New York,18,Basic,2025-01-24 09:00:00,user689@example.com,user_689,252.61,STORE_3
+U1290,2025-07-12,South,Groceries,1947.96,Active,Dallas,41,Free,2025-05-09 03:32:00,user690@example.com,user_690,194.15,STORE_5
+U1291,2025-01-10,North,Clothing,311.56,,Los Angeles,55,Premium,2025-07-03 07:56:00,user691@example.com,user_691,360.68,STORE_5
+U1292,2025-05-13,North,Furniture,1572.85,Pending,Phoenix,38,Free,2025-04-21 01:57:00,user692@example.com,user_692,498.52,STORE_5
+U1293,2025-01-20,East,Toys,1259.3,,Los Angeles,66,Premium,2025-02-06 09:35:00,user693@example.com,user_693,251.96,STORE_4
+U1294,2025-03-22,East,Groceries,331.33,Pending,Denver,38,Basic,2025-01-23 02:11:00,user694@example.com,user_694,489.35,STORE_4
+U1295,2025-06-16,East,Electronics,1943.64,,New York,38,Basic,2025-04-13 13:54:00,user695@example.com,user_695,258.68,STORE_5
+U1296,2025-03-22,North,Electronics,1367.58,,Phoenix,58,Premium,2025-06-08 20:03:00,user696@example.com,user_696,8.93,STORE_1
+U1297,2025-03-16,South,Clothing,1144.57,Active,Houston,39,Basic,2025-06-21 02:22:00,user697@example.com,user_697,235.1,STORE_1
+U1298,2025-02-16,West,Furniture,1538.75,Inactive,Austin,36,Premium,2025-03-23 10:38:00,user698@example.com,user_698,142.8,STORE_1
+U1299,2025-05-20,East,Furniture,299.57,Inactive,Dallas,51,Premium,2025-06-03 12:03:00,user699@example.com,user_699,239.34,STORE_1
+U1300,2025-02-24,West,Furniture,547.0,Inactive,Los Angeles,24,Premium,2025-03-12 12:05:00,user700@example.com,user_700,264.77,STORE_3
+U1301,2025-02-17,West,Electronics,1790.96,,Dallas,63,Basic,2025-02-12 06:22:00,user701@example.com,user_701,393.01,STORE_4
+U1302,2025-04-01,South,Electronics,1126.21,Inactive,Los Angeles,61,Free,2025-05-29 19:09:00,user702@example.com,user_702,372.7,STORE_3
+U1303,2025-01-04,East,Furniture,1868.3,,Dallas,22,Free,2025-04-15 08:33:00,user703@example.com,user_703,429.35,STORE_4
+U1304,2025-06-13,West,Electronics,445.06,Inactive,Austin,59,Free,2025-07-18 05:38:00,user704@example.com,user_704,486.01,STORE_5
+U1305,2025-01-04,North,Groceries,42.22,Pending,Boston,67,Premium,2025-06-29 15:41:00,user705@example.com,user_705,414.95,STORE_4
+U1306,2025-05-14,North,Electronics,1853.43,,Austin,38,Premium,2025-05-22 19:10:00,user706@example.com,user_706,345.83,STORE_4
+U1307,2025-06-12,North,Toys,1876.42,Active,Los Angeles,66,Premium,2025-01-23 20:01:00,user707@example.com,user_707,377.1,STORE_5
+U1308,2025-01-26,South,Toys,1166.65,Active,Miami,33,Basic,2025-02-24 07:49:00,user708@example.com,user_708,237.44,STORE_1
+U1309,2025-03-31,South,Furniture,1816.91,,New York,38,Premium,2025-05-10 09:17:00,user709@example.com,user_709,398.59,STORE_4
+U1310,2025-06-22,East,Electronics,1801.37,,New York,15,Premium,2025-02-09 11:53:00,user710@example.com,user_710,170.87,STORE_5
+U1311,2025-04-21,East,Toys,1947.25,Inactive,Denver,56,Basic,2025-01-14 18:27:00,user711@example.com,user_711,90.99,STORE_3
+U1312,2025-05-13,East,Furniture,469.63,Inactive,Boston,22,Free,2025-05-28 12:53:00,user712@example.com,user_712,83.73,STORE_3
+U1313,2025-02-22,West,Electronics,61.02,Active,Miami,64,Free,2025-02-09 00:39:00,user713@example.com,user_713,194.29,STORE_2
+U1314,2025-04-27,North,Clothing,487.05,Inactive,Phoenix,27,Free,2025-03-04 23:49:00,user714@example.com,user_714,30.62,STORE_1
+U1315,2025-02-06,West,Toys,1735.21,Active,Seattle,53,Premium,2025-01-28 04:18:00,user715@example.com,user_715,423.09,STORE_2
+U1316,2025-04-11,West,Furniture,1592.93,,Los Angeles,46,Free,2025-01-20 06:43:00,user716@example.com,user_716,228.18,STORE_2
+U1317,2025-02-16,North,Electronics,1808.24,Active,Los Angeles,36,Basic,2025-05-04 19:38:00,user717@example.com,user_717,463.66,STORE_2
+U1318,2025-06-05,West,Toys,55.85,Inactive,Houston,70,Basic,2025-01-30 06:01:00,user718@example.com,user_718,470.22,STORE_3
+U1319,2025-03-12,South,Clothing,1906.93,Pending,Atlanta,50,Free,2025-03-17 14:47:00,user719@example.com,user_719,461.56,STORE_3
+U1320,2025-02-14,East,Groceries,1924.12,Active,Denver,65,Free,2025-03-21 05:50:00,user720@example.com,user_720,225.85,STORE_5
+U1321,2025-07-11,North,Groceries,1249.59,,Austin,27,Free,2025-04-01 11:57:00,user721@example.com,user_721,21.71,STORE_5
+U1322,2025-03-06,South,Groceries,1211.73,Pending,Austin,16,Premium,2025-02-16 10:27:00,user722@example.com,user_722,330.19,STORE_3
+U1323,2025-02-07,North,Electronics,29.17,Active,Atlanta,36,Premium,2025-04-30 18:50:00,user723@example.com,user_723,,STORE_3
+U1324,2025-06-04,East,Toys,442.75,Pending,Atlanta,53,Free,2025-01-20 18:57:00,user724@example.com,user_724,407.63,STORE_2
+U1325,2025-02-20,West,Furniture,1002.32,Pending,Austin,22,Premium,2025-04-26 05:38:00,user725@example.com,user_725,146.09,STORE_5
+U1326,2025-01-02,South,Groceries,270.81,,New York,49,Free,2025-01-11 10:41:00,,user_726,210.46,STORE_3
+U1327,2025-03-12,North,Groceries,806.69,Pending,Seattle,54,Premium,2025-04-11 09:44:00,user727@example.com,user_727,455.68,STORE_3
+U1328,2025-06-08,West,Electronics,455.79,Active,Chicago,21,Basic,2025-06-26 23:27:00,user728@example.com,user_728,407.08,STORE_5
+U1329,2025-01-02,West,Groceries,1767.81,Active,Los Angeles,18,Basic,2025-01-20 08:21:00,user729@example.com,user_729,350.84,STORE_2
+U1330,2025-05-30,South,Electronics,261.31,Inactive,Denver,69,Basic,2025-06-13 14:42:00,user730@example.com,user_730,332.33,STORE_3
+U1331,2025-03-24,South,Clothing,192.68,Pending,Atlanta,20,Basic,2025-05-23 07:42:00,user731@example.com,user_731,42.2,STORE_4
+U1332,2025-01-16,East,Electronics,1344.29,,Austin,27,Basic,2025-01-27 10:13:00,user732@example.com,user_732,160.11,STORE_3
+U1333,2025-07-01,South,Clothing,1697.14,Active,Chicago,29,Basic,2025-04-09 14:55:00,user733@example.com,user_733,38.98,STORE_4
+U1334,2025-02-12,North,Toys,1300.28,Inactive,Seattle,21,Free,2025-01-29 07:01:00,user734@example.com,user_734,,STORE_5
+U1335,2025-04-26,North,Groceries,245.47,Active,Dallas,42,Premium,2025-02-08 12:32:00,user735@example.com,user_735,188.04,STORE_1
+U1336,2025-06-16,South,Furniture,395.92,Inactive,Austin,26,Free,2025-03-12 16:38:00,user736@example.com,user_736,324.94,STORE_1
+U1337,2025-02-26,West,Electronics,1791.17,Pending,Houston,19,Free,2025-01-26 08:14:00,user737@example.com,user_737,199.48,STORE_2
+U1338,2025-07-07,North,Furniture,419.35,Inactive,Dallas,55,Basic,2025-06-30 19:18:00,user738@example.com,user_738,351.73,STORE_4
+U1339,2025-07-09,North,Clothing,348.76,Active,Chicago,26,Basic,2025-04-27 04:00:00,user739@example.com,user_739,,STORE_3
+U1340,2025-01-20,East,Electronics,1192.07,,Denver,15,Basic,2025-03-05 15:07:00,,,148.88,STORE_2
+U1341,2025-05-15,East,Clothing,1552.76,Active,Phoenix,66,Free,2025-03-27 14:31:00,user741@example.com,user_741,245.81,STORE_3
+U1342,2025-04-28,West,Groceries,609.26,Pending,Boston,64,Free,2025-06-02 15:07:00,user742@example.com,user_742,78.21,STORE_4
+U1343,2025-02-26,East,Groceries,1000.69,Inactive,Denver,62,Free,2025-04-21 11:13:00,user743@example.com,user_743,321.17,STORE_3
+U1344,2025-06-10,South,Toys,358.15,Pending,Dallas,40,Free,2025-04-17 08:19:00,user744@example.com,user_744,417.91,STORE_1
+U1345,2025-04-21,South,Toys,1936.62,Pending,Phoenix,22,Premium,2025-05-08 21:09:00,user745@example.com,user_745,313.78,STORE_2
+U1346,2025-03-19,South,Groceries,138.59,Pending,New York,44,Premium,2025-02-25 09:52:00,user746@example.com,user_746,218.01,STORE_1
+U1347,2025-01-13,North,Clothing,706.93,Pending,Boston,57,Free,2025-02-09 02:45:00,user747@example.com,user_747,294.69,STORE_1
+U1348,2025-03-16,East,Electronics,951.62,Pending,Houston,66,Free,2025-06-13 12:27:00,user748@example.com,user_748,460.5,STORE_5
+U1349,2025-03-21,East,Toys,877.27,Pending,Denver,23,Free,2025-07-16 06:16:00,user749@example.com,user_749,47.37,STORE_5
+U1350,2025-06-10,South,Toys,374.91,,Los Angeles,23,Free,2025-04-24 22:20:00,user750@example.com,user_750,180.33,STORE_4
+U1351,2025-04-18,South,Furniture,65.07,Active,Austin,20,Premium,2025-06-07 09:50:00,user751@example.com,user_751,273.92,STORE_5
+U1352,2025-03-17,West,Furniture,260.61,Active,Seattle,66,Free,2025-04-28 01:05:00,user752@example.com,user_752,170.07,STORE_1
+U1353,2025-03-16,South,Groceries,1729.99,Active,Atlanta,52,Free,2025-05-11 23:45:00,user753@example.com,user_753,371.51,STORE_4
+U1354,2025-02-04,East,Clothing,608.78,Pending,Atlanta,15,Basic,2025-06-09 22:12:00,user754@example.com,,64.91,STORE_1
+U1355,2025-03-05,East,Electronics,952.75,,Austin,18,Premium,2025-03-18 12:30:00,user755@example.com,user_755,275.63,STORE_5
+U1356,2025-06-24,South,Toys,255.16,Inactive,Miami,16,Premium,2025-02-06 23:42:00,user756@example.com,user_756,104.17,STORE_4
+U1357,2025-03-16,North,Electronics,1918.59,,Dallas,57,Basic,2025-04-11 12:44:00,user757@example.com,user_757,78.34,STORE_3
+U1358,2025-04-28,West,Toys,784.96,Pending,New York,56,Free,2025-06-18 19:28:00,,user_758,236.61,STORE_4
+U1359,2025-03-12,West,Clothing,721.92,Inactive,Dallas,60,Free,2025-04-10 16:04:00,user759@example.com,user_759,283.76,STORE_4
+U1360,2025-07-03,East,Groceries,1572.07,Pending,Austin,19,Free,2025-05-04 12:30:00,user760@example.com,user_760,255.96,STORE_5
+U1361,2025-03-08,East,Groceries,1181.82,Pending,Denver,54,Basic,2025-01-18 01:01:00,user761@example.com,user_761,57.58,STORE_4
+U1362,2025-03-24,East,Clothing,219.81,Inactive,Atlanta,39,Basic,2025-01-17 01:39:00,user762@example.com,,223.56,STORE_3
+U1363,2025-06-05,West,Clothing,649.11,,Austin,23,Free,2025-05-27 17:12:00,user763@example.com,user_763,116.62,STORE_2
+U1364,2025-04-22,East,Electronics,1168.39,Active,Houston,17,Premium,2025-01-02 11:49:00,user764@example.com,user_764,96.73,STORE_5
+U1365,2025-05-08,East,Clothing,1145.04,,Boston,37,Basic,2025-06-08 17:54:00,user765@example.com,user_765,191.18,STORE_1
+U1366,2025-05-26,West,Clothing,1566.95,Pending,Los Angeles,22,Basic,2025-03-01 01:38:00,user766@example.com,,148.5,STORE_3
+U1367,2025-04-10,North,Electronics,1746.16,Inactive,Phoenix,19,Free,2025-05-28 07:54:00,user767@example.com,user_767,311.23,STORE_5
+U1368,2025-06-28,West,Toys,947.25,Pending,Miami,16,Premium,2025-03-28 13:16:00,user768@example.com,user_768,,STORE_2
+U1369,2025-05-21,North,Electronics,478.88,Active,Denver,54,Free,2025-07-15 01:22:00,user769@example.com,user_769,308.15,STORE_1
+U1370,2025-05-22,South,Clothing,548.31,Active,Los Angeles,17,Basic,2025-05-10 07:41:00,user770@example.com,user_770,438.84,STORE_2
+U1371,2025-01-06,West,Electronics,1549.49,Inactive,Boston,53,Basic,2025-06-24 21:47:00,,user_771,191.73,STORE_2
+U1372,2025-04-21,South,Toys,284.16,,Los Angeles,54,Basic,2025-04-01 06:21:00,user772@example.com,user_772,296.37,STORE_2
+U1373,2025-04-16,West,Electronics,1747.78,Inactive,New York,19,Premium,2025-02-02 14:11:00,user773@example.com,user_773,445.76,STORE_3
+U1374,2025-02-03,South,Furniture,1318.59,Active,Los Angeles,31,Free,2025-02-22 15:45:00,user774@example.com,user_774,114.04,STORE_3
+U1375,2025-04-04,North,Clothing,1058.42,Pending,Dallas,59,Free,2025-05-09 03:03:00,user775@example.com,user_775,245.67,STORE_1
+U1376,2025-02-22,East,Toys,468.77,Inactive,Los Angeles,38,Free,2025-02-06 01:15:00,user776@example.com,user_776,61.55,STORE_4
+U1377,2025-01-09,North,Groceries,1180.6,Pending,Los Angeles,18,Basic,2025-06-06 12:31:00,,user_777,116.1,STORE_4
+U1378,2025-02-17,South,Toys,114.0,Pending,New York,49,Basic,2025-01-07 19:48:00,user778@example.com,user_778,406.07,STORE_5
+U1379,2025-02-25,West,Groceries,1454.31,,Austin,65,Free,2025-07-08 01:51:00,user779@example.com,user_779,340.59,STORE_5
+U1380,2025-04-29,South,Toys,1441.25,Pending,Chicago,39,Basic,2025-07-10 07:08:00,user780@example.com,user_780,140.82,STORE_2
+U1381,2025-07-17,North,Groceries,1146.45,Active,Denver,32,Basic,2025-03-10 21:16:00,user781@example.com,user_781,66.53,STORE_5
+U1382,2025-06-19,North,Groceries,1696.71,,Seattle,16,Basic,2025-01-03 14:02:00,user782@example.com,user_782,112.83,STORE_1
+U1383,2025-05-29,West,Groceries,1795.12,Pending,Los Angeles,43,Premium,2025-03-08 08:16:00,user783@example.com,user_783,77.72,STORE_5
+U1384,2025-06-17,West,Clothing,237.75,Active,Chicago,58,Free,2025-04-23 18:20:00,,user_784,,STORE_3
+U1385,2025-03-07,West,Groceries,1085.48,Active,Denver,30,Basic,2025-01-28 02:32:00,user785@example.com,user_785,166.27,STORE_3
+U1386,2025-06-24,South,Electronics,1287.36,Pending,Chicago,16,Basic,2025-06-05 11:21:00,user786@example.com,user_786,471.53,STORE_3
+U1387,2025-06-09,West,Clothing,742.92,Pending,Chicago,52,Premium,2025-01-28 19:13:00,user787@example.com,user_787,256.55,STORE_5
+U1388,2025-07-02,North,Clothing,763.89,Active,Miami,61,Premium,2025-04-08 20:05:00,user788@example.com,user_788,284.87,STORE_5
+U1389,2025-06-11,South,Toys,1468.76,Active,Denver,45,Free,2025-05-15 16:28:00,user789@example.com,user_789,455.98,STORE_3
+U1390,2025-03-04,North,Clothing,917.08,Active,Atlanta,30,Basic,2025-07-07 13:23:00,user790@example.com,user_790,184.34,STORE_4
+U1391,2025-06-04,East,Furniture,1574.75,Inactive,Denver,67,Premium,2025-05-18 07:49:00,user791@example.com,user_791,304.75,STORE_3
+U1392,2025-03-29,North,Electronics,172.2,,Boston,24,Free,2025-05-07 20:56:00,user792@example.com,user_792,12.68,STORE_1
+U1393,2025-04-18,North,Toys,1425.65,,Atlanta,21,Premium,2025-01-09 13:01:00,user793@example.com,user_793,434.11,STORE_4
+U1394,2025-04-19,North,Clothing,810.61,Inactive,Atlanta,33,Premium,2025-03-28 10:37:00,user794@example.com,user_794,41.51,STORE_3
+U1395,2025-04-25,South,Furniture,1483.99,,Phoenix,63,Basic,2025-06-29 04:46:00,user795@example.com,user_795,468.63,STORE_1
+U1396,2025-02-08,West,Toys,1190.17,,Austin,35,Basic,2025-02-15 16:46:00,user796@example.com,user_796,152.19,STORE_3
+U1397,2025-01-13,South,Groceries,652.37,Pending,Chicago,24,Premium,2025-07-08 23:13:00,user797@example.com,user_797,160.61,STORE_3
+U1398,2025-03-14,East,Electronics,582.81,,Seattle,29,Premium,2025-03-15 08:38:00,user798@example.com,user_798,74.8,STORE_2
+U1399,2025-05-22,East,Electronics,1200.8,Active,Boston,49,Premium,2025-01-02 15:53:00,user799@example.com,user_799,474.2,STORE_4
+U1000,2025-07-07,South,Toys,261.1,,Phoenix,22,Free,2025-06-30 03:28:00,user800@example.com,user_800,72.72,STORE_3
+U1001,2025-07-07,West,Groceries,1609.25,Inactive,Atlanta,19,Basic,2025-02-10 16:21:00,user801@example.com,user_801,389.64,STORE_3
+U1002,2025-01-10,South,Electronics,1865.41,Pending,Houston,68,Free,2025-06-19 20:02:00,user802@example.com,user_802,295.24,STORE_2
+U1003,2025-06-22,East,Groceries,945.53,,Chicago,61,Basic,2025-03-14 04:12:00,user803@example.com,user_803,363.03,STORE_2
+U1004,2025-01-01,South,Electronics,986.48,Inactive,Atlanta,26,Premium,2025-04-18 22:16:00,user804@example.com,user_804,177.61,STORE_5
+U1005,2025-06-18,East,Groceries,1682.98,Pending,Miami,46,Basic,2025-06-11 12:38:00,user805@example.com,user_805,60.62,STORE_3
+U1006,2025-04-18,South,Groceries,502.32,,Los Angeles,26,Basic,2025-03-23 21:07:00,user806@example.com,user_806,441.67,STORE_4
+U1007,2025-06-03,South,Clothing,67.64,Pending,Boston,28,Basic,2025-01-16 17:49:00,user807@example.com,user_807,405.47,STORE_4
+U1008,2025-04-13,North,Electronics,543.95,Inactive,Dallas,55,Premium,2025-03-20 14:26:00,user808@example.com,user_808,390.88,STORE_1
+U1009,2025-06-07,North,Clothing,1213.87,Active,Atlanta,16,Basic,2025-01-24 22:21:00,user809@example.com,user_809,329.19,STORE_5
+U1010,2025-02-23,North,Toys,404.9,Inactive,Boston,40,Free,2025-02-28 09:51:00,user810@example.com,user_810,278.71,STORE_2
+U1011,2025-01-04,West,Electronics,1512.69,Active,Boston,40,Basic,2025-01-11 05:18:00,user811@example.com,user_811,127.42,STORE_3
+U1012,2025-07-11,West,Furniture,1314.0,Inactive,Atlanta,32,Premium,2025-01-20 02:32:00,user812@example.com,user_812,12.3,STORE_5
+U1013,2025-06-04,East,Electronics,1474.39,,Houston,68,Free,2025-03-21 10:27:00,user813@example.com,,105.32,STORE_3
+U1014,2025-06-17,South,Furniture,589.56,Active,Houston,41,Free,2025-03-13 15:18:00,user814@example.com,user_814,13.52,STORE_4
+U1015,2025-07-06,South,Groceries,1527.77,Active,Seattle,29,Free,2025-01-07 12:49:00,user815@example.com,user_815,323.2,STORE_3
+U1016,2025-02-06,West,Electronics,1126.16,Inactive,Seattle,52,Premium,2025-01-22 04:25:00,user816@example.com,user_816,285.49,STORE_2
+U1017,2025-01-16,South,Groceries,829.6,Pending,Chicago,17,Basic,2025-06-26 18:38:00,user817@example.com,,378.74,STORE_4
+U1018,2025-05-20,South,Groceries,1919.36,Inactive,Dallas,44,Free,2025-05-04 16:35:00,user818@example.com,user_818,57.0,STORE_1
+U1019,2025-04-07,East,Electronics,332.57,Active,Chicago,27,Basic,2025-01-30 01:56:00,user819@example.com,user_819,246.16,STORE_5
+U1020,2025-04-18,South,Electronics,600.53,,Phoenix,61,Free,2025-03-11 16:20:00,user820@example.com,user_820,75.05,STORE_5
+U1021,2025-06-25,East,Toys,1904.47,Pending,Boston,53,Basic,2025-05-01 14:13:00,user821@example.com,user_821,426.94,STORE_2
+U1022,2025-02-12,South,Electronics,642.2,Inactive,Chicago,45,Premium,2025-01-02 09:44:00,user822@example.com,user_822,168.86,STORE_1
+U1023,2025-06-09,South,Toys,321.34,Pending,Miami,50,Premium,2025-03-30 20:00:00,user823@example.com,user_823,434.71,STORE_5
+U1024,2025-07-06,North,Groceries,1252.76,,Phoenix,50,Free,2025-06-14 21:12:00,user824@example.com,user_824,143.59,STORE_3
+U1025,2025-05-25,West,Clothing,1595.8,,Dallas,51,Free,2025-06-04 08:51:00,user825@example.com,user_825,108.61,STORE_1
+U1026,2025-07-20,East,Clothing,191.76,Inactive,Chicago,25,Basic,2025-01-01 10:04:00,user826@example.com,user_826,222.65,STORE_4
+U1027,2025-03-25,North,Toys,1522.41,Inactive,Boston,40,Basic,2025-07-18 12:45:00,user827@example.com,user_827,267.69,STORE_5
+U1028,2025-02-24,East,Groceries,1425.58,,Boston,43,Basic,2025-06-27 08:43:00,user828@example.com,user_828,93.12,STORE_3
+U1029,2025-04-30,North,Furniture,435.42,Inactive,Austin,38,Premium,2025-07-11 00:12:00,user829@example.com,user_829,,STORE_3
+U1030,2025-03-26,West,Groceries,1832.46,Active,Denver,32,Premium,2025-06-15 08:41:00,user830@example.com,,130.25,STORE_1
+U1031,2025-05-27,West,Furniture,1994.49,,Seattle,26,Basic,2025-07-11 20:48:00,user831@example.com,user_831,308.4,STORE_2
+U1032,2025-06-30,East,Clothing,174.82,Active,New York,43,Free,2025-07-01 01:20:00,user832@example.com,user_832,101.12,STORE_5
+U1033,2025-07-08,West,Groceries,1676.17,Pending,Atlanta,25,Free,2025-07-04 11:33:00,,user_833,335.52,STORE_1
+U1034,2025-01-17,East,Toys,303.55,Pending,Los Angeles,26,Basic,2025-01-12 08:38:00,user834@example.com,user_834,374.68,STORE_1
+U1035,2025-03-21,North,Toys,707.86,Pending,Seattle,51,Free,2025-01-23 18:59:00,user835@example.com,user_835,366.13,STORE_2
+U1036,2025-03-23,West,Clothing,1579.59,Inactive,Miami,38,Basic,2025-01-21 23:15:00,user836@example.com,user_836,432.97,STORE_2
+U1037,2025-03-21,West,Furniture,1414.77,Inactive,Phoenix,23,Free,2025-03-22 13:14:00,user837@example.com,user_837,489.74,STORE_3
+U1038,2025-06-28,South,Groceries,193.9,Pending,Denver,38,Basic,2025-07-17 20:33:00,user838@example.com,user_838,23.18,STORE_5
+U1039,2025-04-09,East,Toys,1141.74,,Dallas,56,Free,2025-03-15 06:21:00,user839@example.com,user_839,398.18,STORE_1
+U1040,2025-05-12,East,Groceries,444.33,Pending,New York,22,Free,2025-06-18 20:11:00,user840@example.com,user_840,284.07,STORE_5
+U1041,2025-01-09,North,Electronics,1262.65,Active,Chicago,41,Basic,2025-03-27 10:41:00,user841@example.com,user_841,85.56,STORE_5
+U1042,2025-02-17,West,Furniture,1620.35,,Denver,51,Free,2025-04-22 23:25:00,user842@example.com,user_842,302.47,STORE_4
+U1043,2025-06-23,South,Groceries,89.86,Inactive,Boston,21,Basic,2025-04-20 08:36:00,user843@example.com,,461.57,STORE_5
+U1044,2025-06-28,East,Toys,1506.18,Inactive,Miami,36,Premium,2025-01-24 09:50:00,user844@example.com,user_844,86.84,STORE_1
+U1045,2025-06-18,East,Clothing,1767.08,Pending,Phoenix,20,Premium,2025-03-02 06:27:00,user845@example.com,user_845,423.61,STORE_3
+U1046,2025-01-02,South,Clothing,695.98,,Boston,58,Basic,2025-06-28 06:58:00,user846@example.com,user_846,125.16,STORE_1
+U1047,2025-04-10,East,Groceries,1528.46,Inactive,Austin,64,Basic,2025-03-14 21:46:00,user847@example.com,user_847,176.7,STORE_5
+U1048,2025-01-07,East,Toys,364.54,Inactive,Dallas,38,Basic,2025-05-09 00:39:00,user848@example.com,user_848,118.89,STORE_4
+U1049,2025-02-18,West,Clothing,610.86,Active,Dallas,39,Free,2025-02-16 13:09:00,user849@example.com,user_849,22.24,STORE_4
+U1050,2025-02-15,East,Furniture,1367.86,Active,Seattle,66,Premium,2025-03-30 21:46:00,user850@example.com,user_850,11.05,STORE_3
+U1051,2025-02-02,South,Furniture,33.06,,Austin,64,Premium,2025-03-19 13:16:00,user851@example.com,user_851,454.56,STORE_5
+U1052,2025-04-06,South,Groceries,1689.9,Pending,Los Angeles,65,Premium,2025-04-19 17:48:00,user852@example.com,user_852,171.87,STORE_5
+U1053,2025-03-08,East,Toys,1627.54,,Austin,18,Basic,2025-03-14 01:07:00,user853@example.com,user_853,,STORE_5
+U1054,2025-06-25,North,Groceries,857.15,Pending,New York,49,Basic,2025-02-15 09:22:00,user854@example.com,user_854,22.63,STORE_1
+U1055,2025-04-02,West,Toys,1479.97,Inactive,Chicago,20,Free,2025-01-25 04:46:00,user855@example.com,user_855,175.97,STORE_4
+U1056,2025-06-26,East,Toys,1142.45,Active,Los Angeles,35,Basic,2025-01-10 04:38:00,user856@example.com,user_856,194.05,STORE_1
+U1057,2025-03-28,North,Furniture,807.47,Inactive,Atlanta,31,Free,2025-06-17 23:56:00,user857@example.com,user_857,397.85,STORE_5
+U1058,2025-03-08,North,Toys,1032.94,Inactive,Atlanta,66,Premium,2025-04-06 18:30:00,user858@example.com,user_858,345.99,STORE_2
+U1059,2025-03-12,West,Toys,803.35,Inactive,Miami,33,Basic,2025-01-02 13:13:00,,user_859,137.19,STORE_5
+U1060,2025-06-12,North,Electronics,450.43,Active,Atlanta,35,Premium,2025-01-17 19:18:00,user860@example.com,user_860,213.28,STORE_5
+U1061,2025-03-26,South,Furniture,1860.45,Active,Dallas,36,Basic,2025-03-30 14:09:00,user861@example.com,user_861,350.37,STORE_4
+U1062,2025-03-07,South,Electronics,1324.79,Active,Miami,46,Free,2025-03-30 02:13:00,user862@example.com,user_862,376.67,STORE_4
+U1063,2025-06-22,South,Electronics,320.24,Inactive,Denver,37,Free,2025-04-21 13:48:00,,user_863,247.92,STORE_2
+U1064,2025-04-07,East,Furniture,1218.17,Active,Los Angeles,40,Premium,2025-02-24 03:36:00,user864@example.com,user_864,492.27,STORE_4
+U1065,2025-05-21,South,Groceries,1505.05,,Denver,32,Basic,2025-07-17 11:40:00,user865@example.com,user_865,382.07,STORE_3
+U1066,2025-05-09,South,Clothing,1719.52,,Seattle,33,Basic,2025-02-10 05:25:00,user866@example.com,user_866,234.69,STORE_2
+U1067,2025-06-24,West,Furniture,1164.51,,Austin,41,Premium,2025-06-12 00:39:00,user867@example.com,user_867,44.85,STORE_5
+U1068,2025-07-07,South,Electronics,656.79,Inactive,Chicago,51,Free,2025-05-01 21:05:00,user868@example.com,,395.99,STORE_4
+U1069,2025-05-22,East,Clothing,920.96,Inactive,Chicago,45,Free,2025-02-21 10:08:00,user869@example.com,user_869,233.28,STORE_2
+U1070,2025-06-25,South,Clothing,1595.54,,Boston,56,Premium,2025-06-04 10:55:00,user870@example.com,user_870,481.42,STORE_1
+U1071,2025-07-11,West,Furniture,1735.45,,Austin,19,Basic,2025-03-08 22:34:00,user871@example.com,user_871,269.41,STORE_1
+U1072,2025-04-23,South,Electronics,593.0,,Atlanta,64,Premium,2025-04-04 12:45:00,user872@example.com,user_872,394.77,STORE_1
+U1073,2025-02-07,North,Toys,1509.62,Active,Atlanta,25,Basic,2025-04-16 21:21:00,user873@example.com,user_873,135.93,STORE_3
+U1074,2025-06-14,West,Furniture,1799.4,,Houston,63,Basic,2025-03-29 09:44:00,user874@example.com,user_874,286.27,STORE_5
+U1075,2025-01-10,East,Clothing,1048.34,Active,Houston,38,Free,2025-04-03 22:18:00,user875@example.com,user_875,155.85,STORE_4
+U1076,2025-06-22,North,Clothing,1490.03,Inactive,Chicago,53,Basic,2025-04-09 08:40:00,user876@example.com,user_876,78.44,STORE_1
+U1077,2025-03-08,North,Toys,1493.46,,Seattle,54,Premium,2025-03-30 20:09:00,user877@example.com,user_877,192.1,STORE_4
+U1078,2025-06-15,East,Toys,969.28,,Austin,15,Free,2025-01-17 10:14:00,user878@example.com,user_878,390.12,STORE_1
+U1079,2025-06-16,East,Groceries,1002.59,Active,Atlanta,69,Free,2025-02-28 23:12:00,user879@example.com,,476.25,STORE_5
+U1080,2025-01-18,North,Toys,1923.7,Active,New York,43,Free,2025-05-14 07:15:00,user880@example.com,user_880,327.15,STORE_2
+U1081,2025-02-28,South,Clothing,90.06,Pending,Boston,32,Premium,2025-07-10 06:46:00,user881@example.com,user_881,263.67,STORE_1
+U1082,2025-02-23,East,Clothing,1175.5,,Seattle,21,Free,2025-07-20 01:20:00,user882@example.com,user_882,223.74,STORE_4
+U1083,2025-02-20,West,Toys,1182.86,,Phoenix,51,Premium,2025-05-29 13:55:00,user883@example.com,user_883,323.1,STORE_5
+U1084,2025-06-12,South,Electronics,510.98,,Denver,32,Basic,2025-06-11 05:21:00,user884@example.com,user_884,153.32,STORE_5
+U1085,2025-03-05,North,Groceries,1358.91,Pending,Miami,43,Premium,2025-07-13 05:31:00,,user_885,250.42,STORE_2
+U1086,2025-01-17,South,Groceries,198.19,,Dallas,55,Free,2025-05-18 05:12:00,user886@example.com,user_886,253.38,STORE_3
+U1087,2025-07-16,South,Electronics,1372.65,Inactive,Denver,58,Premium,2025-03-24 05:12:00,user887@example.com,user_887,307.01,STORE_2
+U1088,2025-03-25,South,Toys,1579.61,Pending,Houston,31,Basic,2025-03-19 11:09:00,user888@example.com,user_888,161.1,STORE_3
+U1089,2025-04-19,South,Furniture,21.29,,New York,41,Basic,2025-06-15 04:29:00,user889@example.com,,108.26,STORE_3
+U1090,2025-03-17,North,Electronics,650.47,,Dallas,50,Free,2025-07-09 06:51:00,user890@example.com,user_890,57.88,STORE_2
+U1091,2025-02-11,North,Furniture,1883.57,,New York,64,Free,2025-04-10 22:58:00,user891@example.com,user_891,295.13,STORE_1
+U1092,2025-01-26,West,Groceries,559.33,Pending,Seattle,33,Premium,2025-05-01 04:56:00,user892@example.com,user_892,209.82,STORE_2
+U1093,2025-02-08,North,Toys,407.99,Active,Seattle,30,Basic,2025-05-27 17:48:00,user893@example.com,user_893,346.34,STORE_2
+U1094,2025-07-17,West,Groceries,1914.83,Pending,Seattle,62,Premium,2025-02-17 10:29:00,user894@example.com,user_894,485.86,STORE_3
+U1095,2025-03-07,West,Clothing,247.19,,Austin,40,Basic,2025-01-13 16:03:00,user895@example.com,user_895,,STORE_4
+U1096,2025-01-09,North,Toys,989.1,Pending,Miami,19,Free,2025-01-20 18:05:00,user896@example.com,user_896,400.3,STORE_1
+U1097,2025-05-27,South,Toys,1303.85,Inactive,Los Angeles,64,Free,2025-04-21 08:29:00,user897@example.com,user_897,326.97,STORE_1
+U1098,2025-02-16,North,Furniture,1060.15,,New York,40,Free,2025-03-17 00:39:00,user898@example.com,,216.44,STORE_3
+U1099,2025-02-27,North,Toys,920.93,Inactive,Denver,37,Free,2025-05-28 04:12:00,user899@example.com,user_899,17.98,STORE_5
+U1100,2025-01-11,East,Toys,703.55,Active,Dallas,70,Basic,2025-02-28 21:13:00,user900@example.com,user_900,120.32,STORE_2
+U1101,2025-07-17,North,Electronics,283.25,,Los Angeles,68,Basic,2025-01-07 14:55:00,user901@example.com,user_901,226.17,STORE_4
+U1102,2025-02-20,East,Furniture,1184.53,Active,Los Angeles,26,Free,2025-05-29 23:33:00,user902@example.com,user_902,247.11,STORE_5
+U1103,2025-04-02,North,Furniture,390.05,Active,Boston,38,Basic,2025-03-07 16:07:00,user903@example.com,,212.91,STORE_1
+U1104,2025-04-01,North,Groceries,1674.7,,Miami,34,Premium,2025-06-29 02:41:00,user904@example.com,user_904,475.9,STORE_3
+U1105,2025-07-06,North,Electronics,290.06,Inactive,Chicago,51,Premium,2025-02-02 16:09:00,user905@example.com,user_905,,STORE_5
+U1106,2025-02-23,North,Groceries,1238.93,Inactive,Austin,26,Premium,2025-05-13 04:47:00,user906@example.com,user_906,462.85,STORE_2
+U1107,2025-01-08,South,Clothing,619.07,Pending,Phoenix,54,Basic,2025-01-08 00:21:00,,user_907,76.45,STORE_4
+U1108,2025-01-12,South,Toys,1447.82,Inactive,Chicago,21,Premium,2025-03-31 07:05:00,user908@example.com,user_908,234.89,STORE_4
+U1109,2025-05-18,South,Clothing,1715.26,Active,Phoenix,45,Basic,2025-03-07 04:20:00,user909@example.com,user_909,359.58,STORE_4
+U1110,2025-05-07,East,Clothing,446.43,Inactive,Chicago,29,Free,2025-01-22 23:06:00,user910@example.com,user_910,128.64,STORE_3
+U1111,2025-02-17,North,Groceries,1423.82,,Miami,52,Free,2025-05-13 18:56:00,user911@example.com,user_911,190.51,STORE_2
+U1112,2025-05-29,West,Furniture,1267.44,Inactive,Chicago,15,Premium,2025-06-12 01:53:00,user912@example.com,user_912,288.18,STORE_4
+U1113,2025-03-30,East,Toys,817.26,Inactive,Seattle,54,Basic,2025-05-20 14:07:00,user913@example.com,user_913,171.99,STORE_2
+U1114,2025-03-07,North,Furniture,1546.3,,Miami,21,Free,2025-03-29 16:16:00,user914@example.com,user_914,482.55,STORE_2
+U1115,2025-01-25,East,Furniture,1661.86,Active,Boston,60,Basic,2025-02-02 11:19:00,user915@example.com,user_915,483.31,STORE_5
+U1116,2025-02-16,South,Toys,397.81,Inactive,New York,27,Free,2025-07-10 11:33:00,user916@example.com,user_916,264.9,STORE_5
+U1117,2025-04-03,East,Toys,341.84,Inactive,Los Angeles,58,Premium,2025-06-12 20:54:00,user917@example.com,user_917,80.27,STORE_5
+U1118,2025-04-19,East,Groceries,107.34,,Phoenix,39,Free,2025-04-18 15:29:00,user918@example.com,user_918,42.06,STORE_5
+U1119,2025-06-21,North,Clothing,1846.87,Active,New York,63,Basic,2025-02-05 04:30:00,user919@example.com,user_919,475.7,STORE_2
+U1120,2025-04-11,East,Furniture,788.09,Inactive,Houston,68,Basic,2025-01-19 07:17:00,user920@example.com,user_920,295.04,STORE_2
+U1121,2025-02-22,South,Clothing,1347.75,Pending,New York,55,Premium,2025-05-14 09:33:00,user921@example.com,user_921,331.91,STORE_3
+U1122,2025-02-01,South,Clothing,150.1,Pending,Phoenix,17,Basic,2025-03-07 03:40:00,user922@example.com,user_922,347.26,STORE_4
+U1123,2025-07-14,North,Clothing,1050.45,Active,Atlanta,53,Free,2025-04-03 07:55:00,user923@example.com,user_923,219.08,STORE_1
+U1124,2025-06-13,West,Groceries,1686.23,Pending,Phoenix,55,Free,2025-03-26 13:42:00,user924@example.com,user_924,55.06,STORE_4
+U1125,2025-03-04,South,Clothing,1186.26,Pending,Los Angeles,64,Free,2025-05-05 17:38:00,user925@example.com,user_925,463.0,STORE_4
+U1126,2025-01-11,West,Toys,1678.03,Active,Denver,21,Premium,2025-07-15 07:23:00,user926@example.com,user_926,408.57,STORE_1
+U1127,2025-03-30,South,Furniture,1150.96,Active,Austin,67,Free,2025-07-10 13:42:00,user927@example.com,user_927,317.11,STORE_3
+U1128,2025-01-26,North,Furniture,1605.77,,Phoenix,37,Free,2025-03-30 11:15:00,user928@example.com,user_928,351.06,STORE_3
+U1129,2025-07-16,East,Clothing,1121.37,Pending,Atlanta,40,Basic,2025-07-19 05:54:00,user929@example.com,user_929,271.43,STORE_2
+U1130,2025-03-23,North,Electronics,1829.2,Active,Miami,40,Basic,2025-06-09 15:40:00,user930@example.com,user_930,355.16,STORE_3
+U1131,2025-03-28,South,Groceries,1511.99,Inactive,Dallas,16,Premium,2025-02-18 18:19:00,user931@example.com,user_931,379.6,STORE_5
+U1132,2025-02-15,South,Toys,1394.32,Inactive,Los Angeles,20,Free,2025-06-03 21:25:00,user932@example.com,user_932,180.13,STORE_2
+U1133,2025-04-09,West,Groceries,1230.71,Active,Dallas,29,Basic,2025-01-11 07:35:00,user933@example.com,user_933,,STORE_2
+U1134,2025-06-27,East,Clothing,1751.52,,Miami,66,Premium,2025-02-07 00:18:00,user934@example.com,,419.78,STORE_4
+U1135,2025-05-23,East,Furniture,380.26,,Miami,51,Basic,2025-07-11 08:45:00,user935@example.com,user_935,218.5,STORE_3
+U1136,2025-03-02,North,Toys,720.58,Inactive,Dallas,70,Free,2025-03-05 17:37:00,user936@example.com,user_936,256.19,STORE_4
+U1137,2025-05-18,North,Electronics,1616.43,Inactive,Atlanta,37,Free,2025-06-29 20:35:00,user937@example.com,user_937,419.12,STORE_4
+U1138,2025-06-08,South,Furniture,1186.22,Active,Chicago,16,Free,2025-04-25 17:41:00,user938@example.com,user_938,78.2,STORE_3
+U1139,2025-01-17,North,Toys,511.5,Active,Atlanta,53,Basic,2025-04-21 22:48:00,user939@example.com,user_939,228.8,STORE_5
+U1140,2025-06-28,North,Groceries,472.8,,Chicago,64,Free,2025-06-24 18:20:00,user940@example.com,user_940,,STORE_3
+U1141,2025-05-31,West,Electronics,1231.56,,Atlanta,25,Free,2025-02-19 07:38:00,user941@example.com,user_941,19.6,STORE_4
+U1142,2025-07-06,West,Groceries,187.32,,Denver,59,Free,2025-04-10 13:24:00,user942@example.com,user_942,52.45,STORE_3
+U1143,2025-02-15,South,Groceries,1004.37,Inactive,Phoenix,40,Premium,2025-02-28 11:41:00,user943@example.com,user_943,264.31,STORE_1
+U1144,2025-06-05,West,Toys,127.7,Pending,Los Angeles,25,Premium,2025-05-16 00:00:00,user944@example.com,user_944,286.2,STORE_3
+U1145,2025-01-18,East,Clothing,1276.6,,Chicago,49,Premium,2025-03-30 03:55:00,user945@example.com,user_945,92.58,STORE_4
+U1146,2025-06-30,East,Toys,306.21,,New York,54,Premium,2025-05-18 03:51:00,user946@example.com,user_946,343.1,STORE_5
+U1147,2025-05-13,East,Electronics,1000.33,Inactive,Denver,36,Basic,2025-06-18 17:53:00,user947@example.com,user_947,279.46,STORE_3
+U1148,2025-03-05,North,Clothing,486.51,,Houston,65,Basic,2025-01-11 11:03:00,user948@example.com,user_948,455.29,STORE_5
+U1149,2025-01-26,West,Groceries,1824.62,,Boston,56,Premium,2025-03-14 10:08:00,user949@example.com,user_949,216.03,STORE_4
+U1150,2025-04-07,West,Furniture,57.43,Active,Dallas,50,Basic,2025-06-06 12:19:00,user950@example.com,user_950,343.61,STORE_1
+U1151,2025-05-16,West,Clothing,1894.09,Pending,Denver,62,Free,2025-05-19 05:41:00,user951@example.com,,,STORE_3
+U1152,2025-04-09,East,Groceries,1928.73,Active,Miami,70,Basic,2025-07-09 16:33:00,user952@example.com,user_952,27.14,STORE_2
+U1153,2025-01-26,South,Clothing,1785.79,Pending,Los Angeles,60,Premium,2025-05-07 06:36:00,user953@example.com,,106.98,STORE_1
+U1154,2025-03-16,West,Clothing,1322.59,Pending,Chicago,39,Premium,2025-04-06 12:02:00,user954@example.com,user_954,132.8,STORE_4
+U1155,2025-06-24,North,Clothing,1881.14,Pending,Austin,59,Premium,2025-04-17 13:24:00,user955@example.com,user_955,246.67,STORE_5
+U1156,2025-01-03,South,Electronics,1395.04,,Chicago,57,Free,2025-02-27 02:40:00,user956@example.com,user_956,37.92,STORE_5
+U1157,2025-03-25,East,Groceries,1911.08,,Phoenix,49,Basic,2025-03-14 18:16:00,user957@example.com,user_957,442.59,STORE_1
+U1158,2025-05-23,South,Clothing,262.96,Active,Seattle,45,Premium,2025-01-29 07:02:00,user958@example.com,user_958,404.17,STORE_2
+U1159,2025-04-22,North,Furniture,1479.31,,Denver,64,Premium,2025-06-19 16:49:00,user959@example.com,user_959,26.66,STORE_1
+U1160,2025-02-09,North,Groceries,1844.46,Pending,Seattle,27,Free,2025-01-15 12:24:00,user960@example.com,user_960,,STORE_2
+U1161,2025-06-10,East,Groceries,1319.44,,New York,70,Basic,2025-01-18 07:38:00,user961@example.com,user_961,482.27,STORE_1
+U1162,2025-01-29,West,Furniture,1040.91,Active,Denver,61,Premium,2025-07-05 10:23:00,,user_962,7.92,STORE_1
+U1163,2025-05-25,West,Furniture,1539.7,Active,Houston,63,Free,2025-01-10 18:34:00,user963@example.com,user_963,468.92,STORE_4
+U1164,2025-03-14,South,Furniture,1821.38,Inactive,Miami,46,Free,2025-03-06 11:40:00,user964@example.com,user_964,270.55,STORE_3
+U1165,2025-02-27,East,Groceries,1277.82,Inactive,Austin,31,Premium,2025-04-05 23:01:00,user965@example.com,user_965,,STORE_4
+U1166,2025-07-01,East,Furniture,258.8,Pending,Houston,40,Basic,2025-04-17 14:46:00,user966@example.com,user_966,172.21,STORE_4
+U1167,2025-02-04,East,Clothing,441.75,Inactive,Denver,27,Free,2025-06-18 19:23:00,user967@example.com,user_967,207.06,STORE_3
+U1168,2025-02-24,South,Clothing,945.76,,Phoenix,68,Free,2025-04-16 01:12:00,user968@example.com,user_968,195.22,STORE_5
+U1169,2025-04-21,East,Furniture,57.43,Inactive,Austin,51,Free,2025-02-14 08:47:00,user969@example.com,user_969,289.66,STORE_2
+U1170,2025-02-08,South,Groceries,942.47,Inactive,Seattle,35,Free,2025-07-15 19:33:00,user970@example.com,user_970,394.55,STORE_1
+U1171,2025-01-06,West,Electronics,669.7,Active,Dallas,37,Premium,2025-07-10 04:13:00,user971@example.com,user_971,161.17,STORE_4
+U1172,2025-05-02,North,Clothing,586.58,Active,Boston,25,Premium,2025-02-11 13:07:00,user972@example.com,user_972,278.4,STORE_4
+U1173,2025-06-29,North,Clothing,1952.49,Inactive,Seattle,21,Premium,2025-02-04 12:30:00,user973@example.com,user_973,,STORE_3
+U1174,2025-04-23,East,Furniture,1789.04,,Miami,51,Basic,2025-03-28 02:56:00,user974@example.com,user_974,340.3,STORE_2
+U1175,2025-01-29,East,Groceries,591.78,Active,Dallas,53,Basic,2025-01-05 19:57:00,user975@example.com,user_975,130.09,STORE_5
+U1176,2025-03-13,West,Furniture,643.95,Inactive,New York,56,Premium,2025-06-29 09:16:00,user976@example.com,user_976,,STORE_4
+U1177,2025-06-18,West,Groceries,1107.04,Inactive,Denver,15,Free,2025-05-27 00:19:00,user977@example.com,user_977,22.81,STORE_3
+U1178,2025-06-28,South,Groceries,739.92,,Austin,60,Basic,2025-02-03 11:46:00,user978@example.com,user_978,46.24,STORE_4
+U1179,2025-06-21,West,Groceries,1724.34,Active,New York,66,Premium,2025-07-15 03:15:00,user979@example.com,user_979,401.72,STORE_1
+U1180,2025-01-20,West,Electronics,1475.64,Pending,Denver,19,Premium,2025-05-30 20:55:00,user980@example.com,user_980,334.14,STORE_5
+U1181,2025-02-01,West,Clothing,407.05,Active,Chicago,20,Free,2025-01-24 00:27:00,user981@example.com,user_981,,STORE_1
+U1182,2025-04-10,North,Toys,393.35,Inactive,Atlanta,46,Free,2025-06-30 05:30:00,user982@example.com,user_982,35.33,STORE_2
+U1183,2025-05-10,West,Electronics,359.94,Inactive,Phoenix,24,Free,2025-05-28 06:44:00,user983@example.com,user_983,425.07,STORE_2
+U1184,2025-02-11,South,Toys,600.47,,Boston,55,Basic,2025-02-25 13:16:00,user984@example.com,user_984,329.15,STORE_3
+U1185,2025-03-14,East,Electronics,132.62,,Dallas,61,Premium,2025-06-08 13:05:00,user985@example.com,user_985,488.7,STORE_1
+U1186,2025-03-23,North,Toys,1359.61,Active,Denver,31,Free,2025-03-23 14:22:00,user986@example.com,user_986,382.89,STORE_3
+U1187,2025-05-20,East,Clothing,1178.59,Active,Atlanta,37,Basic,2025-04-30 14:20:00,user987@example.com,user_987,234.49,STORE_4
+U1188,2025-04-26,East,Clothing,1478.34,,Austin,16,Premium,2025-03-23 12:55:00,user988@example.com,user_988,,STORE_2
+U1189,2025-02-08,East,Clothing,198.74,,Seattle,24,Basic,2025-03-28 06:01:00,user989@example.com,user_989,427.64,STORE_3
+U1190,2025-02-28,East,Furniture,1217.58,,Austin,42,Premium,2025-05-05 21:03:00,user990@example.com,user_990,354.48,STORE_5
+U1191,2025-03-16,East,Clothing,1042.34,,Houston,41,Basic,2025-01-04 09:40:00,user991@example.com,user_991,217.35,STORE_1
+U1192,2025-06-03,East,Toys,570.98,Pending,Atlanta,70,Premium,2025-04-05 18:30:00,user992@example.com,user_992,108.68,STORE_3
+U1193,2025-06-26,East,Groceries,1271.4,,Phoenix,50,Basic,2025-05-28 10:44:00,user993@example.com,user_993,318.18,STORE_2
+U1194,2025-07-01,East,Clothing,982.29,,New York,35,Free,2025-01-25 12:48:00,user994@example.com,user_994,234.03,STORE_3
+U1195,2025-01-18,South,Furniture,1557.09,Pending,Atlanta,24,Basic,2025-07-19 01:30:00,user995@example.com,user_995,413.29,STORE_4
+U1196,2025-05-24,East,Groceries,1913.77,,Dallas,53,Free,2025-02-21 20:12:00,user996@example.com,user_996,368.04,STORE_2
+U1197,2025-05-15,North,Clothing,1583.51,,Atlanta,67,Premium,2025-03-18 08:13:00,user997@example.com,,382.37,STORE_1
+U1198,2025-04-05,South,Clothing,898.9,,Boston,25,Free,2025-04-24 10:06:00,user998@example.com,user_998,305.24,STORE_3
+U1199,2025-02-11,East,Groceries,1912.65,Active,New York,70,Basic,2025-05-22 15:23:00,user999@example.com,user_999,17.61,STORE_4
+U1200,2025-06-15,North,Furniture,364.22,Active,Miami,33,Basic,2025-05-25 18:02:00,user1000@example.com,user_1000,70.27,STORE_1
+U1075,2025-06-01,North,Furniture,718.63,,Seattle,47,Basic,2025-02-07 14:06:00,user475@example.com,user_475,471.49,STORE_1
+U1035,2025-06-20,North,Furniture,1229.18,,Boston,43,Premium,2025-07-10 15:28:00,user35@example.com,user_35,384.08,STORE_5
+U1072,2025-06-10,West,Electronics,624.78,,New York,52,Basic,2025-07-07 04:05:00,user72@example.com,user_72,104.39,STORE_5
+U1078,2025-06-15,North,Electronics,802.3,Inactive,Los Angeles,69,Basic,2025-01-24 21:13:00,user78@example.com,user_78,,STORE_3
+U1053,2025-02-10,West,Furniture,906.5,,Phoenix,17,Premium,2025-03-15 22:18:00,user53@example.com,user_53,462.34,STORE_5
+U1268,2025-06-17,North,Electronics,1412.09,Inactive,Miami,70,Basic,2025-05-13 16:44:00,user268@example.com,user_268,128.05,STORE_3
+U1084,2025-07-04,East,Furniture,908.59,Inactive,Austin,36,Basic,2025-04-13 13:46:00,user84@example.com,user_84,190.28,STORE_2
+U1082,2025-03-20,West,Groceries,347.86,Pending,New York,44,Free,2025-04-19 18:32:00,user482@example.com,user_482,296.05,STORE_3
+U1366,2025-05-17,West,Clothing,405.76,,Boston,60,Premium,2025-01-11 07:59:00,user366@example.com,user_366,82.72,STORE_3
+U1121,2025-04-03,East,Electronics,1970.41,Inactive,Houston,65,Basic,2025-01-07 11:35:00,user121@example.com,user_121,69.24,STORE_1
+U1048,2025-03-11,North,Groceries,468.77,Inactive,Dallas,22,Free,2025-05-18 22:11:00,user48@example.com,user_48,296.85,STORE_5
+U1387,2025-04-17,South,Electronics,674.25,Inactive,New York,55,Premium,2025-06-26 09:16:00,user387@example.com,user_387,165.34,STORE_1
+U1185,2025-01-27,East,Groceries,658.71,,Los Angeles,31,Free,2025-05-06 16:40:00,user185@example.com,user_185,61.54,STORE_3
+U1098,2025-05-13,East,Toys,1374.65,Pending,Seattle,45,Free,2025-02-04 08:11:00,user498@example.com,user_498,103.34,STORE_4
+U1183,2025-01-06,North,Electronics,1357.51,Inactive,Atlanta,30,Free,2025-02-14 17:10:00,user183@example.com,user_183,399.89,STORE_2
+U1174,2025-02-05,North,Groceries,544.13,Inactive,Los Angeles,25,Basic,2025-03-12 13:19:00,user174@example.com,user_174,127.06,STORE_4
+U1042,2025-07-19,East,Groceries,225.12,Active,Phoenix,51,Free,2025-04-07 12:45:00,user42@example.com,user_42,125.21,STORE_3
+U1212,2025-07-09,East,Furniture,742.86,,Houston,61,Free,2025-07-14 07:09:00,,user_212,176.48,STORE_1
+U1176,2025-02-04,North,Groceries,1210.39,Inactive,Seattle,35,Premium,2025-04-12 10:18:00,user176@example.com,user_176,392.08,STORE_3
+U1385,2025-01-23,South,Toys,1868.44,Pending,Austin,53,Basic,2025-03-08 16:36:00,user385@example.com,user_385,283.5,STORE_5
+U1036,2025-05-05,East,Groceries,885.35,Pending,Houston,32,Basic,2025-03-23 17:05:00,user36@example.com,user_36,354.68,STORE_1
+U1253,2025-06-24,North,Electronics,452.28,Inactive,Atlanta,70,Basic,2025-04-18 10:23:00,user253@example.com,user_253,237.92,STORE_5
+U1206,2025-06-28,South,Clothing,125.23,Active,Austin,22,Basic,2025-06-06 19:03:00,user206@example.com,user_206,64.12,STORE_2
+U1280,2025-01-16,North,Clothing,1509.65,Active,Dallas,67,Basic,2025-01-27 19:55:00,user280@example.com,user_280,325.32,STORE_4
+U1032,2025-06-22,East,Toys,951.64,Inactive,Miami,20,Basic,2025-05-12 21:40:00,user32@example.com,user_32,121.26,STORE_3
+U1269,2025-06-19,South,Clothing,1679.68,Active,New York,56,Premium,2025-05-10 15:54:00,user269@example.com,user_269,163.71,STORE_3
+U1214,2025-03-01,South,Groceries,922.33,Active,Denver,21,Free,2025-02-04 20:52:00,user214@example.com,user_214,,STORE_2
+U1329,2025-05-28,East,Groceries,716.67,,Atlanta,43,Premium,2025-04-08 19:18:00,user329@example.com,user_329,322.09,STORE_3
+U1005,2025-04-22,North,Electronics,1169.63,,Chicago,69,Basic,2025-01-16 11:57:00,user405@example.com,user_405,411.27,STORE_3
+U1203,2025-05-07,South,Electronics,489.75,Active,Boston,15,Basic,2025-03-23 04:24:00,user203@example.com,user_203,343.06,STORE_4
+U1356,2025-03-05,East,Groceries,1624.04,Active,Denver,40,Free,2025-02-25 23:04:00,user356@example.com,user_356,413.72,STORE_5
+U1080,2025-05-19,North,Clothing,228.75,Active,Chicago,15,Basic,2025-03-02 18:20:00,,user_80,213.38,STORE_1
+U1281,2025-03-02,North,Electronics,1853.7,,Austin,65,Free,2025-03-22 17:03:00,,user_281,391.56,STORE_4
+U1022,2025-05-06,East,Toys,791.34,,Los Angeles,24,Free,2025-07-16 13:13:00,user422@example.com,user_422,133.2,STORE_1
+U1046,2025-05-23,West,Toys,1896.64,Active,Houston,61,Basic,2025-05-06 17:48:00,user46@example.com,user_46,226.85,STORE_1
+U1017,2025-01-25,North,Furniture,1224.87,Pending,Dallas,32,Basic,2025-01-26 08:41:00,user417@example.com,user_417,124.69,STORE_5
+U1107,2025-03-31,West,Furniture,115.98,Pending,Houston,39,Premium,2025-04-06 07:01:00,user107@example.com,user_107,170.97,STORE_2
+U1230,2025-07-01,North,Furniture,32.68,Inactive,Houston,59,Premium,2025-03-31 08:50:00,user230@example.com,,367.63,STORE_2
+U1082,2025-03-19,South,Electronics,131.04,,Austin,42,Free,2025-01-28 15:45:00,user82@example.com,user_82,306.11,STORE_1
+U1060,2025-07-01,East,Groceries,1106.17,,Los Angeles,29,Premium,2025-04-29 03:41:00,user60@example.com,user_60,256.89,STORE_3
+U1391,2025-07-20,North,Groceries,1422.58,Pending,Austin,20,Basic,2025-03-02 11:28:00,user391@example.com,user_391,91.63,STORE_3
+U1067,2025-04-19,West,Electronics,47.42,,Austin,17,Premium,2025-01-28 01:50:00,user467@example.com,user_467,454.72,STORE_1
+U1045,2025-05-12,North,Electronics,230.82,Pending,Seattle,54,Premium,2025-04-04 11:11:00,user445@example.com,user_445,387.92,STORE_2
+U1134,2025-06-02,South,Groceries,1934.47,Inactive,Atlanta,18,Free,2025-05-03 05:33:00,user134@example.com,user_134,78.15,STORE_2
+U1117,2025-01-08,East,Toys,1359.4,,New York,23,Premium,2025-03-02 20:23:00,user117@example.com,user_117,,STORE_2
+U1123,2025-02-02,East,Clothing,870.91,Active,Los Angeles,48,Premium,2025-03-19 05:10:00,user123@example.com,user_123,470.75,STORE_3
+U1029,2025-02-18,North,Electronics,1420.48,Active,Boston,66,Free,2025-06-25 23:47:00,user29@example.com,user_29,474.69,STORE_3
+U1331,2025-07-11,South,Furniture,342.96,Active,Chicago,61,Premium,2025-06-19 08:47:00,user331@example.com,user_331,55.99,STORE_1
+U1350,2025-06-17,South,Electronics,941.44,Active,Dallas,50,Free,2025-04-17 11:50:00,user350@example.com,user_350,25.12,STORE_1
+U1286,2025-01-30,North,Furniture,488.29,Inactive,New York,58,Basic,2025-04-08 03:24:00,user286@example.com,user_286,,STORE_5
